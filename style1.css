@@ -1,0 +1,27 @@
+button{
+    background-color: black;
+    color: white;
+}
+#aside{
+    display: none;
+    width: 300px;
+    background-color: wheat;
+    height: 800px;
+    margin: 0%;
+}
+.aside>li{
+    list-style: none;
+    line-height: 30px;
+    
+}
+h1{
+    background-color: black;
+    color: white;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px    ;
+    text-align: center;
+}
+ul>h3{
+    width: 200px;
+}
