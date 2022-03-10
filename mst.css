@@ -40,11 +40,17 @@ nav{
     margin-top: 0px;
 }
 .nav2>.container-fluid>.navbar-brand:hover{
-    color: white;
+    color: rgb(214, 168, 168);
 }
 
 /* main-section */
-
+#modebut{
+    position: absolute;
+    margin-top: 100px;
+    z-index: 100;
+    margin-left: -13px;
+    position: fixed;
+}
 #main-section{
     height: 2000px;
     background-color: wheat;
@@ -162,3 +168,10 @@ nav{
     color: white;
     margin-left: 10px;
 }
+
+
+/* logic css */
+.gridbox14{
+    background-color: black;
+    color:white;
+} 

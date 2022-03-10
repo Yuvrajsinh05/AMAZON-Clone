@@ -6,6 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>amazon</title>
+    <style>
+   
+     </style>
+
+    <script src="logic.js"></script>
+    
     <link rel="stylesheet" href="mst.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
         integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
@@ -16,6 +22,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
         crossorigin="anonymous"></script>
+   
 
 </head>
 
@@ -166,7 +173,7 @@
 
 
     <div class="container-fluid " id="main-section">
-    
+        <button id="modebut" onclick="changemode()">Mode</button>
         <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
@@ -188,23 +195,25 @@
               <span class="visually-hidden">Next</span>
             </button>
           </div>
+
+
         <div id="gridcont">
-            <div class="gri-ite it1">
+            <div class="gri-ite it1" id="mode">
                 <h3>Effective Dish Washing For Indian Cooking</h3>
                 <a href=""><img src="images/c-1.jpg" alt=""></a>
             </div>
-            <div class="gri-ite it2">
+            <div class="gri-ite it2" id="mode2">
                 <h3>Welcome in Holi Style</h3>
                 <div class="cc"><a href=""><img src="images/c-21.jpg" alt=""></a><span>Clothing</span></div>
                 <div class="cc"><a href=""><img src="images/c-22.jpg" alt=""></a><span>Footwear</span></div>
                 <div class="cc"><a href=""><img src="images/c-23.jpg" alt=""></a><span>WaterProof MakeUp</span></div>
                 <div class="cc"><a href=""><img src="images/c-24.jpg" alt=""></a><span>Fashion Accesiories</span></div>
             </div>
-            <div class="gri-ite it3">
+            <div class="gri-ite it3" id="mode3">
                 <h3>for all birthday gifting and celebration needs </h3>
                 <a href=""><img src="images/c-3.jpg" alt=""><span>more</span></a>
             </div>
-            <div class="gri-ite it4">
+            <div class="gri-ite it4" id="mode4">
                 <h3>Up to 60% off | Car & bike Accesiories \ more</h3>
                 <a href=""><img src="./images/c-41.jpg" alt=""></a>
                 <a href=""><img src="./images/c-42.jpg" alt=""></a>
@@ -217,18 +226,18 @@
                 <!-- <a href=""><img src="./images/c-43.jpg" alt=""></a> -->
 
             </div>
-            <div class="gri-ite it5">
+            <div class="gri-ite it5" id="mode5">
                 <h3>Best Selling range of redmi andriod TV </h3>
                 <a href=""><img src="images/c-5.jpg" alt=""></a>
             </div>
-            <div class="gri-ite it6">
+            <div class="gri-ite it6" id="mode6">
                 <h3>Clothing for all</h3>
                 <div class="cc"><a href=""><img src="images/c-61.jpg" alt=""></a><span>KURTAS | upto 60% off</span></div>
                 <div class="cc"><a href=""><img src="images/c-62.jpg" alt=""></a><span>SARIES | upto 60% off</span></div>
                 <div class="cc"><a href=""><img src="images/c-63.jpg" alt=""></a><span>T-Shirts | upto 60% off</span></div>
                 <div class="cc"><a href=""><img src="images/c-64.jpg" alt=""></a><span>Jeans | upto 60% off</span></div>
             </div>
-            <div class="gri-ite it7">
+            <div class="gri-ite it7" id="mode7">
                 <h3>Shope For Your Baby by age</h3>
                 <div class="cc"><a href=""><img src="images/c-71.jpg" alt=""></a><span>0-6 month</span></div>
                 <div class="cc"><a href=""><img src="images/c-72.jpg" alt=""></a><span>6-12 month</span></div>
@@ -236,7 +245,7 @@
                 <div class="cc"><a href=""><img src="images/c-74.jpg" alt=""></a><span>24-36 month</span></div>
            
             </div>
-            <div class="gri-ite it8">
+            <div class="gri-ite it8" id="mode8">
                 <h3>Up to 60% | Tropical hues home furnishing from local shop</h3>
                 <img src="images/c-81.jpg" alt="">
                 <img src="images/c-82.jpg" alt="">
