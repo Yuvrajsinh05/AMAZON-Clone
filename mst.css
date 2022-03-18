@@ -7,7 +7,30 @@ li{
 
 
 /* nav  */
+#weather{
+    background-color: transparent;
+    color: white;
+    border: none;
+    line-height: 15px;
+}
+#out{
+    z-index: 1000000;
+    /* border: 2px solid black; */
+}
+#weatherOut{
+    z-index: 1000000;
+    line-height: 15px;
+    /* border: 2px solid black; */
 
+}
+#wegeo{
+    position: absolute;
+    float: left;
+    /* border: 2px solid black; */
+    width: 350px;
+    z-index: 1111000000000;
+    height: 100px;
+}
 nav{
     background-color: black;
     width: 100%;
@@ -43,7 +66,8 @@ nav{
     color: rgb(214, 168, 168);
 }
 
-/* main-section */
+/* main -section */
+
 #modebut{
     position: absolute;
     margin-top: 100px;

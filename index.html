@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>amazon</title>
     <style>
-   
-     </style>
+
+    </style>
 
     <script src="logic.js"></script>
-    
+
     <link rel="stylesheet" href="mst.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
         integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
@@ -22,19 +22,19 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
         crossorigin="anonymous"></script>
-   
+
 
 </head>
 
 <body>
 
-<!-- ---nav-------- -->
+    <!-- ---nav-------- -->
 
     <nav id="apple">
         <img src="./images/amazon.png" alt="" style="height: 40px; width: 100px;float: left;margin-top: 30px;">
         <ul>
             <li class="nloc navitem">
-                <span><i>Hello.. </i><br><b>select your location</b></span>
+                <button onClick="geolocation()" id="weather"><span><i>Hello.. </i><br><b>select your location</b></span></button> 
             </li>
             <li class="navitem">
                 <span>
@@ -97,7 +97,8 @@
             <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar"
                 aria-labelledby="offcanvasNavbarLabel">
                 <div class="offcanvas-header">
-                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel"><i class="fa-solid fa-circle-user"></i> Hello,sign in</h5>
+                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel"><i class="fa-solid fa-circle-user"></i>
+                        Hello,sign in</h5>
                     <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                         aria-label="Close"></button>
                 </div>
@@ -145,63 +146,67 @@
                         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
                         <button class="btn btn-outline-success" type="submit">Search</button>
                     </form>
-             
+
                     <br><br>
                     <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="offcanvasNavbarDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Help & Setting
-                        </a>
-                        <ul class="dropdown-menu" style="z-index: 10000;" aria-labelledby="offcanvasNavbarDropdown">
-                            <li><a class="dropdown-item" href="#">Your Account</a></li>
-                            <li><a class="dropdown-item" href="#">sign In</a></li>
-                            <li><a class="dropdown-item" href="#">Customer Service</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="#">&copy; iUV</a></li>
-                        </ul>
-                    </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="offcanvasNavbarDropdown" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Help & Setting
+                            </a>
+                            <ul class="dropdown-menu" style="z-index: 10000;" aria-labelledby="offcanvasNavbarDropdown">
+                                <li><a class="dropdown-item" href="#">Your Account</a></li>
+                                <li><a class="dropdown-item" href="#">sign In</a></li>
+                                <li><a class="dropdown-item" href="#">Customer Service</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="#">&copy; iUV</a></li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
             </div>
         </div>
     </nav>
 
-<!-- -----main-page------ -->
+  
+
+    <!-- -----main-page------ -->
 
 
     <div class="container-fluid " id="main-section">
+        <div id="wegeo">
+        <p id="out"></p>
+        <p id="weatherOut"></p>
+    </div>
+
         <button id="modebut" onclick="changemode()">Mode</button>
         <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img src="./images/slide1.jpg" class="d-block w-100" alt="...">
-              </div>
-              <div class="carousel-item">
-                <img src="./images/slide2.jpg" class="d-block w-100" alt="...">
-              </div>
-              <div class="carousel-item">
-                <img src="./images/slide3.jpg" class="d-block w-100" alt="...">
-              </div>
+                <div class="carousel-item active">
+                    <img src="./images/slide1.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="./images/slide2.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="./images/slide3.jpg" class="d-block w-100" alt="...">
+                </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Previous</span>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Next</span>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
             </button>
-          </div>
-       <!-- <div id="geo">
-        <button onClick="geolocation()" id="geoweather">
-            Get Location
-        </button>
-        <p id="out"></p>
-        <p id="weatherOut"></p>
-    </div> -->
+        </div>
+
+
         <div id="gridcont">
             <div class="gri-ite it1" id="mode">
                 <h3>Effective Dish Washing For Indian Cooking</h3>
@@ -237,9 +242,12 @@
             </div>
             <div class="gri-ite it6" id="mode6">
                 <h3>Clothing for all</h3>
-                <div class="cc"><a href=""><img src="images/c-61.jpg" alt=""></a><span>KURTAS | upto 60% off</span></div>
-                <div class="cc"><a href=""><img src="images/c-62.jpg" alt=""></a><span>SARIES | upto 60% off</span></div>
-                <div class="cc"><a href=""><img src="images/c-63.jpg" alt=""></a><span>T-Shirts | upto 60% off</span></div>
+                <div class="cc"><a href=""><img src="images/c-61.jpg" alt=""></a><span>KURTAS | upto 60% off</span>
+                </div>
+                <div class="cc"><a href=""><img src="images/c-62.jpg" alt=""></a><span>SARIES | upto 60% off</span>
+                </div>
+                <div class="cc"><a href=""><img src="images/c-63.jpg" alt=""></a><span>T-Shirts | upto 60% off</span>
+                </div>
                 <div class="cc"><a href=""><img src="images/c-64.jpg" alt=""></a><span>Jeans | upto 60% off</span></div>
             </div>
             <div class="gri-ite it7" id="mode7">
@@ -248,7 +256,7 @@
                 <div class="cc"><a href=""><img src="images/c-72.jpg" alt=""></a><span>6-12 month</span></div>
                 <div class="cc"><a href=""><img src="images/c-73.jpg" alt=""></a><span>12-24 month</span></div>
                 <div class="cc"><a href=""><img src="images/c-74.jpg" alt=""></a><span>24-36 month</span></div>
-           
+
             </div>
             <div class="gri-ite it8" id="mode8">
                 <h3>Up to 60% | Tropical hues home furnishing from local shop</h3>
@@ -265,6 +273,8 @@
             <div class="gri-ite it10">10</div>
             <div class="gri-ite it11">11</div> -->
         </div>
+
+
     </div>
 
 
@@ -306,32 +316,32 @@
             </table>
             <hr>
             <img src="./images/amazon.png" alt="">
-            <button><i class="fa-solid fa-globe"></i> English   </button>
+            <button><i class="fa-solid fa-globe"></i> English </button>
             <br>
             <p>
-            <span>Australia</span>
-            <span>Brazil</span>
-            <span>Canada</span>
-            <span>china</span>
-            <span>France</span>
-            <span>Germany</span>
-            <span>India</span>
-            <span>Italy</span>
-            <span>Japan</span>
-            <span>Mexico</span>
-            <span>Netherlands</span>
-            <span>Poland</span>
-            <span>Singapore</span>
-            <span>Spain</span>
-            <span>Turkey</span>
-            <span>United Arab Emirates</span>
-            <span>United Kingdome</span>
-            <span>Unites Status</span>
-        </p>
+                <span>Australia</span>
+                <span>Brazil</span>
+                <span>Canada</span>
+                <span>china</span>
+                <span>France</span>
+                <span>Germany</span>
+                <span>India</span>
+                <span>Italy</span>
+                <span>Japan</span>
+                <span>Mexico</span>
+                <span>Netherlands</span>
+                <span>Poland</span>
+                <span>Singapore</span>
+                <span>Spain</span>
+                <span>Turkey</span>
+                <span>United Arab Emirates</span>
+                <span>United Kingdome</span>
+                <span>Unites Status</span>
+            </p>
         </div>
         <div></div>
     </footer>
-
+<script src="we.js"></script>
 
 </body>
 
