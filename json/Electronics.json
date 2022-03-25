@@ -1,0 +1,58 @@
+[ {
+    "product_id":2,
+    "product":"ELectronics",
+    "category":"Mobiles",
+    "category-id": 1,
+    "Price":"",
+    "Size":"",
+    "Img":"",
+    "Color":"",
+    "Brand":""
+  },
+  {
+    "product_id":2,
+    "product":"ELectronics",
+    "category":"Ac",
+    "category-id": 2,
+    "Price":"",
+    "Size":"",
+    "Img":"",
+    "Color":"",
+    "Brand":""
+ },
+ {
+
+    "product_id":2,
+    "product":"ELectronics",
+    "category":"Laptops",
+    "category-id": 3,
+    "Price":"",
+    "Size":"",
+    "Img":"",
+    "Color":"",
+    "Brand":""
+ },
+ {
+
+    "product_id":2,
+    "product":"ELectronics",
+    "category":"Smart-Tv",
+    "category-id": 4,
+    "Price":"",
+    "Size":"",
+    "Img":"",
+    "Color":"",
+    "Brand":""
+ },
+ {
+
+    "product_id":2,
+    "product":"ELectronics",
+    "category":"Ac",
+    "category-id": 5,
+    "Price":"",
+    "Size":"",
+    "Img":"",
+    "Color":"",
+    "Brand":""
+ }]

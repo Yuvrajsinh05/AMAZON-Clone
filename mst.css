@@ -92,15 +92,11 @@ nav{
     position: absolute;
     margin-top: -192px;
     z-index: 2;
-
-
 }
 .gri-ite{
     padding: 20px;
     background-color: white;
     width: 415px;
-
-
 }
 .it4{
     grid-column-start: 1;
