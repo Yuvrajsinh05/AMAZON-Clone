@@ -1,0 +1,36 @@
+[
+    {
+        "id":5,
+        "Category":"Trend",
+        "Product":"Prime",
+        "Product-id": 1,
+        "Price":"",
+        "Size":"",
+        "Img":"",
+        "Color":"",
+        "Brand":""
+    },
+    {
+        "id":5,
+        "Category":"Trend",
+        "Product":"today's-deal",
+        "Product-id": 2,
+        "Price":"",
+        "Size":"",
+        "Img":"",
+        "Color":"",
+        "Brand":""
+    },
+    
+    {
+        "id":5,
+        "Category":"Trend",
+        "Product":"gifts",
+        "Product-id": 3,
+        "Price":"",
+        "Size":"",
+        "Img":"",
+        "Color":"",
+        "Brand":""
+    }
+]

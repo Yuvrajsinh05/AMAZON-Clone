@@ -1,9 +1,8 @@
 [{
-    "product-id":1,
-    "product":"Fashion",
-    "category":"Men's-wear",
-    
-    "category-id": 1,
+    "id":1,
+    "Category":"Fashion",
+    "Product":"Men's-wear",
+    "Product-id": 1,
     "Price":"",
     "Size":"",
     "Img":"",
@@ -11,10 +10,10 @@
     "Brand":""
 },
 {
-    "product-id":1,
-    "product":"Fashion",
-    "category":"Women's-wear",
-    "category-id": 2,
+    "id":1,
+    "Category":"Fashion",
+    "Product":"Women's-wear",
+    "Product-id": 2,
     "Price":"",
     "Size":"",
     "Img":"",
@@ -23,10 +22,10 @@
 },
 
 {
-    "product-id":1,
-    "product":"Fashion",
-    "category":"Boys",
-    "category-id": 3,
+    "id":1,
+    "Category":"Fashion",
+    "Product":"Boys",
+    "Product-id": 3,
     "Price":"",
     "Size":"",
     "Img":"",
@@ -34,10 +33,10 @@
     "Brand":""
 },
 {
-    "product-id":1,
-    "product":"Fashion",
-    "category":"girls",
-    "category-id": 4,
+    "id":1,
+    "Category":"Fashion",
+    "Product":"girls",
+    "Product-id": 4,
     "Price":"",
     "Size":"",
     "Img":"",
@@ -45,10 +44,10 @@
     "Brand":""
 },
 {
-    "product-id":1,
-    "product":"Fashion",
-    "category":"kids",
-    "category-id": 5,
+    "id":1,
+    "Category":"Fashion",
+    "Product":"kids",
+    "Product-id": 5,
     "Price":"",
     "Size":"",
     "Img":"",

@@ -1,22 +1,22 @@
 [
    {
-       "product_id":1,
-       "product":"Fashion"
+       "id":1,
+       "Category":"Fashion"
    },
    {
-      "product_id":2,
-      "product":"ELectronics"
+      "id":2,
+      "Category":"ELectronics"
    },
    {
-      "product_id":3,
-      "product":"Books"
+      "id":3,
+      "Category":"Books"
    },
    {
-      "product-id":4,
-      "product":"Beauty"
+      "id":4,
+      "Category":"Beauty"
    },
    {
-      "product-id":5,
-      "product":"Trend"
+      "id":5,
+      "Category":"Trend"
    }
 ]
