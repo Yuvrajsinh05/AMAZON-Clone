@@ -4,10 +4,8 @@
     "Product":"Men's-wear",
     "Product-id": 1,
     "Price":"",
-    "Size":"",
-    "Img":"",
-    "Color":"",
-    "Brand":""
+    "Size":["M","L","XL","XXL"],
+    "Img":""
 },
 {
     "id":1,
@@ -15,10 +13,8 @@
     "Product":"Women's-wear",
     "Product-id": 2,
     "Price":"",
-    "Size":"",
-    "Img":"",
-    "Color":"",
-    "Brand":""
+    "Size":["XS","S","M","L","XL"],
+    "Img":""
 },
 
 {
@@ -28,9 +24,7 @@
     "Product-id": 3,
     "Price":"",
     "Size":"",
-    "Img":"",
-    "Color":"",
-    "Brand":""
+    "Img":""
 },
 {
     "id":1,

@@ -3,40 +3,45 @@
         "id":3,
         "Category":"Books",
         "Product":"Biography",
-        "Product-id": 1,
-        "Price":"150",
-        "Brand":""
+        "Book-id": 1,
+        "Price":150,
+        "size":"22.2 x 16.4 cm",
+        "Pages":70
     },
     {
         "id":3,
         "Category":"Books",
         "Product":"Mythology",
-        "Product-id": 2,
-        "Price":"170",
-        "Brand":""
+        "Book-id": 2,
+        "Price":170,
+        "size":"30.2 x 20 cm",
+        "Pages": 200
     },
     {
         "id":3,
         "Category":"Books",
-        "Product":"persnality-dev",
-        "Product-id": 3,
-        "Price":"190",
-        "Brand":""
+        "Product":"personality-dev",
+        "Book-id": 3,
+        "Price":190,
+        "size":"25 x 15.4 cm",
+        "Pages":200
     },
     {
         "id":3,
         "Category":"Books",
         "Product":"Investment",
-        "Product-id": 4,
-        "Price":"800",
-        "Brand":""
+        "Book-id": 4,
+        "Price":800,
+        "size":"20 x 12.4 cm",
+        "Pages": 550
     },
     {
         "id":3,
         "Category":"Books",
         "Product":"science",
-        "Product-id": 5,
-        "Price":"700",
-        "Brand":""
+        "Book-id": 5,
+        "Price":700,
+        "size":"21.6 x 12.3 cm",
+        "Pages": 400
     }
 ]

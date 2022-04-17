@@ -3,22 +3,14 @@
     "id":2,
     "Category":"ELectronics",
     "Product":"mobiles",
-    "Product-id": 1,
-    "Price":"",
-    "Size":"",
-    "Img":"",
-    "Color":"",
+    "eTool-id": 1,
     "Brand":""
- },
-  {
+   },
+   {
     "id":2,
     "Category":"ELectronics",
     "Product":"Ac",
-    "Product-id": 2,
-    "Price":"",
-    "Size":"",
-    "Img":"",
-    "Color":"",
+    "eTool-id": 1,
     "Brand":""
  },
  {
@@ -26,11 +18,7 @@
     "id":2,
     "Category":"ELectronics",
     "Product":"Laptops",
-    "Product-id": 3,
-    "Price":"",
-    "Size":"",
-    "Img":"",
-    "Color":"",
+    "eTool-id": 3,
     "Brand":""
  },
  {
@@ -38,11 +26,7 @@
     "id":2,
     "Category":"ELectronics",
     "Product":"Smart-Tv",
-    "Product-id": 4,
-    "Price":"",
-    "Size":"",
-    "Img":"",
-    "Color":"",
+    "eTool-id": 4,
     "Brand":""
  },
  {
@@ -50,8 +34,7 @@
     "id":2,
     "Category":"ELectronics",
     "Product":"Ac",
-    "Product-id": 5,
-    "Price":"",
-    "Size":"",
-    "Img":"",
-    "Color":""}]
+    "eTool-id": 5,
+    "Brand":""
+ }
+]
