@@ -4,10 +4,7 @@
         "Category":"Books",
         "Product":"Biography",
         "Product-id": 1,
-        "Price":"",
-        "Size":"",
-        "Img":"",
-        "Color":"",
+        "Price":"150",
         "Brand":""
     },
     {
@@ -15,10 +12,7 @@
         "Category":"Books",
         "Product":"Mythology",
         "Product-id": 2,
-        "Price":"",
-        "Size":"",
-        "Img":"",
-        "Color":"",
+        "Price":"170",
         "Brand":""
     },
     {
@@ -26,10 +20,7 @@
         "Category":"Books",
         "Product":"persnality-dev",
         "Product-id": 3,
-        "Price":"",
-        "Size":"",
-        "Img":"",
-        "Color":"",
+        "Price":"190",
         "Brand":""
     },
     {
@@ -37,10 +28,7 @@
         "Category":"Books",
         "Product":"Investment",
         "Product-id": 4,
-        "Price":"",
-        "Size":"",
-        "Img":"",
-        "Color":"",
+        "Price":"800",
         "Brand":""
     },
     {
@@ -48,10 +36,7 @@
         "Category":"Books",
         "Product":"science",
         "Product-id": 5,
-        "Price":"",
-        "Size":"",
-        "Img":"",
-        "Color":"",
+        "Price":"700",
         "Brand":""
     }
 ]
