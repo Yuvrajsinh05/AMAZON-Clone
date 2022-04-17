@@ -3,6 +3,7 @@ let app = express();
 const mongo = require('mongodb');
 const MongoClient = mongo.MongoClient;
 const dotenv = require('dotenv');
+const { query } = require('express');
 dotenv.config()
 let port = process.env.PORT || 8230;
 const mongoUrl = process.env.mongoUrlLive
@@ -15,6 +16,24 @@ app.get('/',(req,res)=>{
 // Data 
 app.get('/Data',(req,res)=>{
     db.collection('data').find().toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result)
+    })
+})
+app.get('/Data/fashion',(req,res)=>{
+    db.collection('fashion').find().toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result)
+    })
+})
+app.get('/Data/electronics',(req,res)=>{
+    db.collection('electronics').find().toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result)
+    })
+})
+app.get('/Data/books',(req,res)=>{
+    db.collection('books').find().toArray((err,result)=>{
         if(err) throw err;
         res.send(result)
     })
