@@ -2,20 +2,97 @@
     {
         "id":3,
         "Category":"Books",
-        "Product":"Biography",
+        "type":"BIOGRAPHY",
         "Book-id": 1,
-        "Price":150,
-        "size":"22.2 x 16.4 cm",
-        "Pages":70
+        "Product":[
+            {   
+                "Bookname":"Steve-jobs",
+                "Price":150,
+                "size":"22.2 x 16.4 cm",
+                "language":"English",
+                "Pages":70,
+                "img":""
+            },
+            {   
+                "Bookname":"Sudha Murty",
+                "Price":185,
+                "size":"16.2 x 10.4 cm",
+                "language":"English",
+                "Pages":232,
+                "img":""
+            },
+            {   
+                "Bookname":"Nikola Tesla",
+                "Price":2199,
+                "size":"22.2 x 16.4 cm",
+                "language":"English",
+                "Pages":44,
+                "img":""
+            },
+            {   
+                "Bookname":"APJABDULKALAM WINGS OF FIRE",
+                "Price":325,
+                "size":"22.2 x 16.4 cm",
+                "language":["English","Hindi"],
+                "Pages":180,
+                "img":""
+            },
+            {   
+                "Bookname":"STEPHEN HAWKING",
+                "Price":499,
+                "size":"22.2 x 16.4 cm",
+                "language":"English",
+                "Pages":256,
+                "img":""
+            }
+        ]
     },
     {
         "id":3,
         "Category":"Books",
-        "Product":"Mythology",
         "Book-id": 2,
-        "Price":170,
-        "size":"30.2 x 20 cm",
-        "Pages": 200
+        "type":"mythology",
+        "Product":[
+            {   
+                "Bookname":"MAHABHARAT",
+                "Price":925,
+                "size":"22.2 x 16.4 cm",
+                "language":["English","Hindi"],
+                "Pages":770,
+                "img":""
+            },
+            {   
+                "Bookname":"Ramayana",
+                "Price":316,
+                "size":"16.2 x 10.4 cm",
+                "language":["English","Hindi"],
+                "Pages":1000,
+                "img":""
+            },
+            {   
+                "Bookname":"Shree Bhagwad Geeta",
+                "Price":156,
+                "size":"22.2 x 16.4 cm",
+                "language":["English","Hindi"],
+                "img":""
+            },
+            {   
+                "Bookname":"ARTHASHASTRA",
+                "Price":429,
+                "size":"22.2 x 16.4 cm",
+                "language":["English","Hindi"],
+                "Pages":600,
+                "img":""
+            },
+            {   
+                "Bookname":"Mythologo",
+                "Price":1299,
+                "size":"22.2 x 16.4 cm",
+                "language":"English",
+                "Pages":384,
+                "img":""
+            }
+        ]
     },
     {
         "id":3,
