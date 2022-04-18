@@ -36,3 +36,5 @@ localhost:9700/viewOrder Get Order on basis of emailId
 localhost:9700/viewOrder?email=yuvrajsinh73598@gmail.com
 
 //update order (put) localhost:9700/updateOrder/62514d42f5aec503c2e0f9a4 (body) { "status":"In Transit", "bankName":"Kotak mahindra" }
+
+a
