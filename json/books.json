@@ -172,29 +172,38 @@
         "type": "Investment",
         "Book-id": 4,
         "Product": [
-            {   
-                "Bookname":"THE INTELLIGENT INVESTOR",
-                "Price":249,
-                "size":"22.2 x 16.4 cm",
-                "language":["English","Hindi"],
-                "Pages":660,
-                "img":""
+            {
+                "Bookname": "THE INTELLIGENT INVESTOR",
+                "Price": 249,
+                "size": "22.2 x 16.4 cm",
+                "language": [
+                    "English",
+                    "Hindi"
+                ],
+                "Pages": 660,
+                "img": ""
             },
-            {   
-                "Bookname":"THE Psychology of Money",
-                "Price":270,
-                "size":"22.2 x 16.4 cm",
-                "language":["English","Hindi"],
-                "Pages":252,
-                "img":""
+            {
+                "Bookname": "THE Psychology of Money",
+                "Price": 270,
+                "size": "22.2 x 16.4 cm",
+                "language": [
+                    "English",
+                    "Hindi"
+                ],
+                "Pages": 252,
+                "img": ""
             },
-            {   
-                "Bookname":"Richdad Poordad",
-                "Price":325,
-                "size":"22.2 x 16.4 cm",
-                "language":["English","Hindi"],
-                "Pages":336,
-                "img":""
+            {
+                "Bookname": "Richdad Poordad",
+                "Price": 325,
+                "size": "22.2 x 16.4 cm",
+                "language": [
+                    "English",
+                    "Hindi"
+                ],
+                "Pages": 336,
+                "img": ""
             }
         ]
     },
@@ -203,9 +212,6 @@
         "Category": "Books",
         "type": "science",
         "Book-id": 5,
-        "Product":[
-            
-        ]
-
+        "Product": []
     }
 ]

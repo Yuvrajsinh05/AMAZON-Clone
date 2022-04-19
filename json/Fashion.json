@@ -1,20 +1,47 @@
 [{
     "id":1,
     "Category":"Fashion",
-    "Product":"Men's-wear",
+    "type":"Men's-wear",
     "Product-id": 1,
-    "Price":"",
-    "Size":["M","L","XL","XXL"],
-    "Img":""
+    "Product":{
+            "T-shirts":{
+                "Brand":[],
+                "Size":[],
+                "Range":[],
+                "Color":[]
+            },
+            "shirt":{
+                "Brand":[],
+                "Size":[],
+                "Range":[],
+                "Color":[]
+            },
+            "Paint":{
+                "Brand":[],
+                "Size":[],
+                "Range":[],
+                "Color":[]
+            },
+            "Shoes":{
+                "Brand":[],
+                "Size":[],
+                "Range":[],
+                "Color":[]
+            },
+            "Watch":{
+                "Brand":[],
+                "Size":[],
+                "Range":[],
+                "Color":[]
+            }
+        }
 },
 {
     "id":1,
     "Category":"Fashion",
     "Product":"Women's-wear",
-    "Product-id": 2,
-    "Price":"",
-    "Size":["XS","S","M","L","XL"],
-    "Img":""
+    "Product-id": 2
+
 },
 
 {
