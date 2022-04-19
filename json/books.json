@@ -1,124 +1,211 @@
 [
     {
-        "id":3,
-        "Category":"Books",
-        "type":"BIOGRAPHY",
+        "id": 3,
+        "Category": "Books",
+        "type": "BIOGRAPHY",
         "Book-id": 1,
-        "Product":[
+        "Product": [
+            {
+                "Bookname": "Steve-jobs",
+                "Price": 150,
+                "size": "22.2 x 16.4 cm",
+                "language": "English",
+                "Pages": 70,
+                "img": ""
+            },
+            {
+                "Bookname": "Sudha Murty",
+                "Price": 185,
+                "size": "16.2 x 10.4 cm",
+                "language": "English",
+                "Pages": 232,
+                "img": ""
+            },
+            {
+                "Bookname": "Nikola Tesla",
+                "Price": 2199,
+                "size": "22.2 x 16.4 cm",
+                "language": "English",
+                "Pages": 44,
+                "img": ""
+            },
+            {
+                "Bookname": "APJABDULKALAM WINGS OF FIRE",
+                "Price": 325,
+                "size": "22.2 x 16.4 cm",
+                "language": [
+                    "English",
+                    "Hindi"
+                ],
+                "Pages": 180,
+                "img": ""
+            },
+            {
+                "Bookname": "STEPHEN HAWKING",
+                "Price": 499,
+                "size": "22.2 x 16.4 cm",
+                "language": "English",
+                "Pages": 256,
+                "img": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "Category": "Books",
+        "Book-id": 2,
+        "type": "mythology",
+        "Product": [
+            {
+                "Bookname": "MAHABHARAT",
+                "Price": 925,
+                "size": "22.2 x 16.4 cm",
+                "language": [
+                    "English",
+                    "Hindi"
+                ],
+                "Pages": 770,
+                "img": ""
+            },
+            {
+                "Bookname": "Ramayana",
+                "Price": 316,
+                "size": "16.2 x 10.4 cm",
+                "language": [
+                    "English",
+                    "Hindi"
+                ],
+                "Pages": 1000,
+                "img": ""
+            },
+            {
+                "Bookname": "Shree Bhagwad Geeta",
+                "Price": 156,
+                "size": "22.2 x 16.4 cm",
+                "language": [
+                    "English",
+                    "Hindi"
+                ],
+                "img": ""
+            },
+            {
+                "Bookname": "ARTHASHASTRA",
+                "Price": 429,
+                "size": "22.2 x 16.4 cm",
+                "language": [
+                    "English",
+                    "Hindi"
+                ],
+                "Pages": 600,
+                "img": ""
+            },
+            {
+                "Bookname": "Mythologo",
+                "Price": 1299,
+                "size": "22.2 x 16.4 cm",
+                "language": "English",
+                "Pages": 384,
+                "img": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "Category": "Books",
+        "type": "personality-dev",
+        "Book-id": 3,
+        "Product": [
+            {
+                "Bookname": "Atomic Habit",
+                "Price": 780,
+                "size": "22.2 x 16.4 cm",
+                "language": "English",
+                "Pages": 482,
+                "img": ""
+            },
+            {
+                "Bookname": "How to influnece friends and win people",
+                "Price": 925,
+                "size": "22.2 x 16.4 cm",
+                "language": [
+                    "English",
+                    "Hindi"
+                ],
+                "Pages": 348,
+                "img": ""
+            },
+            {
+                "Bookname": "the Power of your subconscious MIND",
+                "Price": 99,
+                "size": "22.2 x 16.4 cm",
+                "language": [
+                    "English",
+                    "Hindi"
+                ],
+                "Pages": 296,
+                "img": ""
+            },
+            {
+                "Bookname": "Do Epic Shit ",
+                "Price": 296,
+                "size": "22.2 x 16.4 cm",
+                "language": "English",
+                "Pages": 312,
+                "img": ""
+            },
+            {
+                "Bookname": "train your  brain",
+                "Price": 49,
+                "size": "22.2 x 16.4 cm",
+                "language": [
+                    "English",
+                    "Hindi"
+                ],
+                "Pages": 231,
+                "img": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "Category": "Books",
+        "type": "Investment",
+        "Book-id": 4,
+        "Product": [
             {   
-                "Bookname":"Steve-jobs",
-                "Price":150,
+                "Bookname":"THE INTELLIGENT INVESTOR",
+                "Price":249,
                 "size":"22.2 x 16.4 cm",
-                "language":"English",
-                "Pages":70,
+                "language":["English","Hindi"],
+                "Pages":660,
                 "img":""
             },
             {   
-                "Bookname":"Sudha Murty",
-                "Price":185,
-                "size":"16.2 x 10.4 cm",
-                "language":"English",
-                "Pages":232,
-                "img":""
-            },
-            {   
-                "Bookname":"Nikola Tesla",
-                "Price":2199,
+                "Bookname":"THE Psychology of Money",
+                "Price":270,
                 "size":"22.2 x 16.4 cm",
-                "language":"English",
-                "Pages":44,
+                "language":["English","Hindi"],
+                "Pages":252,
                 "img":""
             },
             {   
-                "Bookname":"APJABDULKALAM WINGS OF FIRE",
+                "Bookname":"Richdad Poordad",
                 "Price":325,
                 "size":"22.2 x 16.4 cm",
                 "language":["English","Hindi"],
-                "Pages":180,
-                "img":""
-            },
-            {   
-                "Bookname":"STEPHEN HAWKING",
-                "Price":499,
-                "size":"22.2 x 16.4 cm",
-                "language":"English",
-                "Pages":256,
+                "Pages":336,
                 "img":""
             }
         ]
     },
     {
-        "id":3,
-        "Category":"Books",
-        "Book-id": 2,
-        "type":"mythology",
-        "Product":[
-            {   
-                "Bookname":"MAHABHARAT",
-                "Price":925,
-                "size":"22.2 x 16.4 cm",
-                "language":["English","Hindi"],
-                "Pages":770,
-                "img":""
-            },
-            {   
-                "Bookname":"Ramayana",
-                "Price":316,
-                "size":"16.2 x 10.4 cm",
-                "language":["English","Hindi"],
-                "Pages":1000,
-                "img":""
-            },
-            {   
-                "Bookname":"Shree Bhagwad Geeta",
-                "Price":156,
-                "size":"22.2 x 16.4 cm",
-                "language":["English","Hindi"],
-                "img":""
-            },
-            {   
-                "Bookname":"ARTHASHASTRA",
-                "Price":429,
-                "size":"22.2 x 16.4 cm",
-                "language":["English","Hindi"],
-                "Pages":600,
-                "img":""
-            },
-            {   
-                "Bookname":"Mythologo",
-                "Price":1299,
-                "size":"22.2 x 16.4 cm",
-                "language":"English",
-                "Pages":384,
-                "img":""
-            }
-        ]
-    },
-    {
-        "id":3,
-        "Category":"Books",
-        "Product":"personality-dev",
-        "Book-id": 3,
-        "Price":190,
-        "size":"25 x 15.4 cm",
-        "Pages":200
-    },
-    {
-        "id":3,
-        "Category":"Books",
-        "Product":"Investment",
-        "Book-id": 4,
-        "Price":800,
-        "size":"20 x 12.4 cm",
-        "Pages": 550
-    },
-    {
-        "id":3,
-        "Category":"Books",
-        "Product":"science",
+        "id": 3,
+        "Category": "Books",
+        "type": "science",
         "Book-id": 5,
-        "Price":700,
-        "size":"21.6 x 12.3 cm",
-        "Pages": 400
+        "Product":[
+            
+        ]
+
     }
 ]
