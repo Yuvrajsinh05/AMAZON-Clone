@@ -6,7 +6,7 @@ const dotenv = require('dotenv');
 const { query } = require('express');
 dotenv.config()
 let port = process.env.PORT || 8230;
-const mongoUrl = process.env.mongoUrlLive
+const mongoUrl = process.env.mongoUrl
 
 app.get('/',(req,res)=>{
     res.send('<h1>Hey Welcome to the amazonC</h1>')
@@ -38,6 +38,26 @@ app.get('/Data/books',(req,res)=>{
         res.send(result)
     })
 })
+
+
+// books  WRT type of type
+app.get('/Data/books/',(req,res)=>{
+    let query ={};
+    let bookID= Number(req.query.Book_id)
+    let booktype = Number(req.query.type)
+    if(bookID){
+        query={Book_id:bookID}
+    }
+    else if(booktype){
+        query={type:booktype}
+    }
+    
+    db.collection('books').find(query).toArray((err,result) => {
+        if(err) throw err;
+        res.send(result)
+    })
+})
+
 
 
 
