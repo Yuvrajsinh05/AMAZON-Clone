@@ -6,7 +6,7 @@ const dotenv = require('dotenv');
 const { query } = require('express');
 dotenv.config()
 let port = process.env.PORT || 8230;
-const mongoUrl = process.env.mongoUrl
+const mongoUrl = process.env.mongoUrlLive
 
 app.get('/',(req,res)=>{
     res.send('<h1>Hey Welcome to the amazonC</h1>')
