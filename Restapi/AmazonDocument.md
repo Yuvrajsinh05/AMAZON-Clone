@@ -19,7 +19,8 @@ https://amazonuviiiiiii.herokuapp.com/data/electronics
 
 page-3
 ---------wroking on it ------------
-
+----Books wrt to Type of Books
+http://localhost:9700/books/3
 
 page4
 

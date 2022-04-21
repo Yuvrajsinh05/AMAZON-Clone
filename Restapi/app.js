@@ -40,25 +40,13 @@ app.get('/Data/books',(req,res)=>{
 })
 
 
-// books  WRT type of type
-app.get('/Data/books/',(req,res)=>{
-    let query ={};
-    let bookID= Number(req.query.Book_id)
-    let booktype = Number(req.query.type)
-    if(bookID){
-        query={Book_id:bookID}
-    }
-    else if(booktype){
-        query={type:booktype}
-    }
-    
-    db.collection('books').find(query).toArray((err,result) => {
+app.get('/books/:id',(req,res)=>{
+    let bookID=Number(req.params.id);
+    db.collection('books').find({Book_id:bookID}).toArray((err,result)=>{
         if(err) throw err;
         res.send(result)
     })
 })
-
-
 
 
 // Connection with db
