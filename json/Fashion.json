@@ -11,18 +11,8 @@
                     "description": "Allen Solly Men's Polo",
                     "img": "https://i.ibb.co/zftfn2w/tshirt1.jpg",
                     "cost": "₹479.00 - ₹609.00",
-                    "size": [
-                        "S",
-                        "M",
-                        "L",
-                        "XL",
-                        "2XL"
-                    ],
-                    "color": [
-                        "white",
-                        "grey",
-                        "Yellow"
-                    ],
+                    "size": [ "S","M","L","XL","2XL"],
+                    "color": ["white", "grey","Yellow" ],
                     "rating": ""
                 },
                 {
@@ -30,16 +20,8 @@
                     "description": "AELOMART Men's T Shirt-(Amt250105-P_Green)",
                     "img": "https://i.ibb.co/pXQDfXw/2.jpg",
                     "cost": "₹457.00",
-                    "size": [
-                        "S",
-                        "M",
-                        "L",
-                        "XL"
-                    ],
-                    "color": [
-                        "Black",
-                        "grey"
-                    ],
+                    "size": ["S","M","L","XL"],
+                    "color": ["Black","grey"],
                     "rating": ""
                 },
                 {
@@ -47,15 +29,8 @@
                     "description": "Jockey Men's Regular Fit Round Neck Half Sleeved T-Shirt",
                     "img": "https://i.ibb.co/183SvC8/3.jpg",
                     "cost": "₹399.00 - ₹799.00",
-                    "size": [
-                        "S",
-                        "M",
-                        "L",
-                        "XL"
-                    ],
-                    "color": [
-                        "white"
-                    ],
+                    "size": ["S","M","L","XL" ],
+                    "color": ["white"],
                     "rating": ""
                 },
                 {
@@ -63,17 +38,8 @@
                     "description": "AWG ALL WEATHER GEAR Men's Polyester Round Neck T-Shirts - Pack of 4",
                     "img": "https://i.ibb.co/Sy445rz/4.jpg",
                     "cost": "₹399.00 - ₹699.00",
-                    "size": [
-                        "S",
-                        "M",
-                        "L",
-                        "XL"
-                    ],
-                    "color": [
-                        "white",
-                        "Orange",
-                        "Yellow"
-                    ],
+                    "size": ["S","M","L","XL"],
+                    "color": ["white","Orange","Yellow" ],
                     "rating": ""
                 },
                 {
@@ -81,18 +47,8 @@
                     "description": "SHAUN Men T-Shirt (N704MT3_$P_Pack of 3)",
                     "img": "https://i.ibb.co/4YLKH7J/5.jpg",
                     "cost": "₹489.00 - ₹499.00",
-                    "size": [
-                        "S",
-                        "M",
-                        "L",
-                        "XL",
-                        "5XL"
-                    ],
-                    "color": [
-                        "white",
-                        "Orange",
-                        "Purple"
-                    ],
+                    "size": ["S","M","L", "XL","5XL"],
+                    "color": ["white", "Orange","Purple" ],
                     "rating": ""
                 }
             ],
@@ -102,18 +58,8 @@
                     "description": "Dennis Lingo Men's Slim Fit Casual Shirt",
                     "img": "https://i.ibb.co/x3Ttksw/6.jpg",
                     "cost": "₹479.00 - ₹609.00",
-                    "size": [
-                        "S",
-                        "M",
-                        "L",
-                        "XL",
-                        "2XL"
-                    ],
-                    "color": [
-                        "white",
-                        "grey",
-                        "Yellow"
-                    ],
+                    "size": ["S","M","L","XL","2XL"],
+                    "color": ["white","grey","Yellow"],
                     "rating": ""
                 },
                 {
@@ -121,16 +67,8 @@
                     "description": "IndoPrimo Men's Slim Fit Casual Shirt",
                     "img": "https://i.ibb.co/bHht1jn/7.jpg",
                     "cost": "₹499.00",
-                    "size": [
-                        "S",
-                        "M",
-                        "L",
-                        "XL"
-                    ],
-                    "color": [
-                        "grey",
-                        "Yellow"
-                    ],
+                    "size": ["S","M","L","XL"],
+                    "color": ["grey","Yellow"],
                     "rating": ""
                 },
                 {
@@ -138,17 +76,8 @@
                     "description": "IndoPrimo Men's Classic Fit Casual Shirt",
                     "img": "https://i.ibb.co/NnG990v/8.jpg",
                     "cost": "₹499.00",
-                    "size": [
-                        "S",
-                        "M",
-                        "L",
-                        "XL"
-                    ],
-                    "color": [
-                        "green",
-                        "grey",
-                        "Yellow"
-                    ],
+                    "size": ["S","M","L","XL" ],
+                    "color": ["green","grey","Yellow"],
                     "rating": ""
                 },
                 {
@@ -156,18 +85,8 @@
                     "description": "Amazon Brand - Inkast Denim Co. Men's Slim Casual Shirt",
                     "img": "https://i.ibb.co/4fZKNR6/9.jpg",
                     "cost": "₹649.00 - ₹709.00",
-                    "size": [
-                        "S",
-                        "M",
-                        "L",
-                        "XL",
-                        "2XL"
-                    ],
-                    "color": [
-                        "Black",
-                        "grey",
-                        "Yellow"
-                    ],
+                    "size": ["S","M","L","XL","2XL"],
+                    "color": ["Black","grey","Yellow"],
                     "rating": ""
                 },
                 {
@@ -175,18 +94,8 @@
                     "description": "OTUS Men's Cotton Casual Slim Fit Solid Shirt",
                     "img": "https://i.ibb.co/3yGg98q/10.jpg",
                     "cost": "₹454.00",
-                    "size": [
-                        "S",
-                        "M",
-                        "L",
-                        "XL",
-                        "2XL"
-                    ],
-                    "color": [
-                        "Black",
-                        "green ",
-                        "Yellow"
-                    ],
+                    "size": ["S","M","L","XL","2XL"],
+                    "color": ["Black","green ","Yellow"],
                     "rating": ""
                 }
             ],
@@ -275,6 +184,48 @@
                     "cost": "₹3,995.00",
                     "rating": ""
                 }
+            ],
+            "Shoes":[
+               {
+               "item": "21",
+               "description":"TYING Men's Trendy & Stylish (9273) Black & Sports Sneakers Running Shoes",
+               "img": "https://i.ibb.co/mS2tJXx/21.jpg",
+               "cost": "₹259.00 - ₹1,150.00",
+               "size": ["6UK","7UK","8UK","9UK","10UK"],
+               "rating": ""
+               },
+               {
+                "item": "22",
+                "description":"Sparx Men's Sd0323g Sneakers",
+                "img": "https://i.ibb.co/4gh3mZ2/22.jpg",
+                "cost": "₹689.00 - ₹1,199.00",
+                "size": ["6UK","7UK","8UK","9UK","10UK"],
+                "rating": ""
+               },
+               {
+                "item": "23",
+                "description":"ASIAN Men's Wonder-13 Sports Running Shoes",
+                "img": "https://i.ibb.co/yBkkYd5/23.jpg",
+                "cost": " ₹498.00",
+                "size": ["6UK","7UK","8UK","9UK","10UK"],   
+                "rating": ""
+               },
+               {
+                "item": "24",
+                "description":"Vector X Blast Cricket Shoes",
+                "img": "https://i.ibb.co/G0dHfjn/24.jpg",
+                "cost": " ₹548.00",
+                "size": ["6UK","7UK","8UK","9UK","10UK"],   
+                "rating": ""
+               },
+               {
+                "item": "25",
+                "description":"Feroc Men's Cricket Shoes",
+                "img": "https://i.ibb.co/936VdZX/25.jpg",
+                "cost": "₹999.00",
+                "size": ["6UK","7UK","8UK","9UK","10UK"],   
+                "rating": ""
+               }
             ]
         }
     },
