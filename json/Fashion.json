@@ -1,79 +1,318 @@
-[{
-    "id":1,
-    "Category":"Fashion",
-    "type":"Men's-wear",
-    "Product-id": 1,
-    "Product":{
-            "T-shirts":{
-                "Brand":[],
-                "Size":[],
-                "Range":[],
-                "Color":[]
-            },
-            "shirt":{
-                "Brand":[],
-                "Size":[],
-                "Range":[],
-                "Color":[]
-            },
-            "Paint":{
-                "Brand":[],
-                "Size":[],
-                "Range":[],
-                "Color":[]
-            },
-            "Shoes":{
-                "Brand":[],
-                "Size":[],
-                "Range":[],
-                "Color":[]
-            },
-            "Watch":{
-                "Brand":[],
-                "Size":[],
-                "Range":[],
-                "Color":[]
-            }
+[
+    {
+        "id": 1,
+        "Category": "Fashion",
+        "type": "Men's-wear",
+        "Product-id": 1,
+        "Product": {
+            "t-shirts": [
+                {
+                    "item": "1",
+                    "description": "Allen Solly Men's Polo",
+                    "img": "https://i.ibb.co/zftfn2w/tshirt1.jpg",
+                    "cost": "₹479.00 - ₹609.00",
+                    "size": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "2XL"
+                    ],
+                    "color": [
+                        "white",
+                        "grey",
+                        "Yellow"
+                    ],
+                    "rating": ""
+                },
+                {
+                    "item": "2",
+                    "description": "AELOMART Men's T Shirt-(Amt250105-P_Green)",
+                    "img": "https://i.ibb.co/pXQDfXw/2.jpg",
+                    "cost": "₹457.00",
+                    "size": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL"
+                    ],
+                    "color": [
+                        "Black",
+                        "grey"
+                    ],
+                    "rating": ""
+                },
+                {
+                    "item": "3",
+                    "description": "Jockey Men's Regular Fit Round Neck Half Sleeved T-Shirt",
+                    "img": "https://i.ibb.co/183SvC8/3.jpg",
+                    "cost": "₹399.00 - ₹799.00",
+                    "size": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL"
+                    ],
+                    "color": [
+                        "white"
+                    ],
+                    "rating": ""
+                },
+                {
+                    "item": "4",
+                    "description": "AWG ALL WEATHER GEAR Men's Polyester Round Neck T-Shirts - Pack of 4",
+                    "img": "https://i.ibb.co/Sy445rz/4.jpg",
+                    "cost": "₹399.00 - ₹699.00",
+                    "size": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL"
+                    ],
+                    "color": [
+                        "white",
+                        "Orange",
+                        "Yellow"
+                    ],
+                    "rating": ""
+                },
+                {
+                    "item": "5",
+                    "description": "SHAUN Men T-Shirt (N704MT3_$P_Pack of 3)",
+                    "img": "https://i.ibb.co/4YLKH7J/5.jpg",
+                    "cost": "₹489.00 - ₹499.00",
+                    "size": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "5XL"
+                    ],
+                    "color": [
+                        "white",
+                        "Orange",
+                        "Purple"
+                    ],
+                    "rating": ""
+                }
+            ],
+            "Shirts": [
+                {
+                    "item": "6",
+                    "description": "Dennis Lingo Men's Slim Fit Casual Shirt",
+                    "img": "https://i.ibb.co/x3Ttksw/6.jpg",
+                    "cost": "₹479.00 - ₹609.00",
+                    "size": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "2XL"
+                    ],
+                    "color": [
+                        "white",
+                        "grey",
+                        "Yellow"
+                    ],
+                    "rating": ""
+                },
+                {
+                    "item": "7",
+                    "description": "IndoPrimo Men's Slim Fit Casual Shirt",
+                    "img": "https://i.ibb.co/bHht1jn/7.jpg",
+                    "cost": "₹499.00",
+                    "size": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL"
+                    ],
+                    "color": [
+                        "grey",
+                        "Yellow"
+                    ],
+                    "rating": ""
+                },
+                {
+                    "item": "8",
+                    "description": "IndoPrimo Men's Classic Fit Casual Shirt",
+                    "img": "https://i.ibb.co/NnG990v/8.jpg",
+                    "cost": "₹499.00",
+                    "size": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL"
+                    ],
+                    "color": [
+                        "green",
+                        "grey",
+                        "Yellow"
+                    ],
+                    "rating": ""
+                },
+                {
+                    "item": "9",
+                    "description": "Amazon Brand - Inkast Denim Co. Men's Slim Casual Shirt",
+                    "img": "https://i.ibb.co/4fZKNR6/9.jpg",
+                    "cost": "₹649.00 - ₹709.00",
+                    "size": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "2XL"
+                    ],
+                    "color": [
+                        "Black",
+                        "grey",
+                        "Yellow"
+                    ],
+                    "rating": ""
+                },
+                {
+                    "item": "10",
+                    "description": "OTUS Men's Cotton Casual Slim Fit Solid Shirt",
+                    "img": "https://i.ibb.co/3yGg98q/10.jpg",
+                    "cost": "₹454.00",
+                    "size": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "2XL"
+                    ],
+                    "color": [
+                        "Black",
+                        "green ",
+                        "Yellow"
+                    ],
+                    "rating": ""
+                }
+            ],
+            "geans": [
+                {
+                    "item": "11",
+                    "description": "Ben Martin Men's Relaxed Jeans",
+                    "img": "https://i.ibb.co/rdkKR0b/11.jpg",
+                    "cost": "₹592.00 - ₹698.00",
+                    "size": ["28","30","32","34","36","40","42"],
+                    "color": ["Dark-bule","Light-blue","Black"],
+                    "rating": ""
+                },
+                {
+                    "item": "12",
+                    "description":"Campus Sutra Men Striped Denim Jeans",
+                    "img": "https://i.ibb.co/bFX7Rk2/12.jpg",
+                    "cost": "₹759.00 - ₹859.00",
+                    "size": ["28","30","32","34","36","40","42"],
+                    "color": ["Dark-bule","Light-blue","Black"],
+                    "rating": ""
+                },
+                {
+                    "item": "13",
+                    "description":"Amazon Brand - Inkast Denim Co. Men's Slim Stretchable Jeans",
+                    "img": "https://i.ibb.co/VBSxdMh/13.jpg",
+                    "cost": "₹759.00 - ₹859.00",
+                    "size": ["28","30","32","34","36","40","42"],
+                    "color": ["Dark-bule","Light-blue","Black"],
+                    "rating": ""
+                },
+                {
+                    "item": "14",
+                    "description":"United Jeans Mens Blue Dori Style Relaxed Fit Cotton Cargo Jogger Jeans Pants",
+                    "img": "https://i.ibb.co/Vv5kVT1/14.jpg",
+                    "cost": "₹590.00 - ₹699.00",
+                    "size": ["28","30","32","34","36","40","42"],
+                    "color": ["Black"],
+                    "rating": ""
+                },
+                {
+                    "item": "15",
+                    "description":"Amazon Brand - Symbol Men's Skinny Jeans",
+                    "img": "https://i.ibb.co/12t2k8Y/15.jpg",
+                    "cost": "₹649.00",
+                    "size": ["28","30","32","34","36","40","42"],
+                    "color": ["Black","Blue"],
+                    "rating": ""
+                }
+            ],
+            "watch":[
+                {
+                    "item": "16",
+                    "description":"Timex Analog Black Dial Men's Watch-TW000R ",
+                    "img":"https://i.ibb.co/w6ZmLfw/16.jpg",
+                    "cost": "₹1,986.00",
+                    "rating": ""
+                },
+                {
+                    "item": "17",
+                    "description":"Ferro Spezia Multifunction Round Dial Men's Watch with Bracelet Strap",
+                    "img":"https://i.ibb.co/h98nJKN/17.jpg",
+                    "cost": "₹4,449.00",
+                    "rating": ""
+                },
+                {
+                    "item": "18",
+                    "description":"Redux Analog Linear Designer Dial Men’s & Boy's Watch",
+                    "img":"https://i.ibb.co/r0nJ7wt/18.jpg",
+                    "cost": "₹299.00",
+                    "rating": ""
+                },
+                {
+
+                    "item": "19",
+                    "description":"Ferro Venedik Analog Multicolor Dial Men's Watch-F40060A-119-R",
+                    "img":"https://i.ibb.co/2vJtbSt/19.jpg",
+                    "cost": "₹2,874.00",
+                    "rating": ""
+                },
+                {
+
+                    "item": "19",
+                    "description":"Fastrack Analog Black Dial Men's Watch-NL3147KM01/NN3147KM01/NP3147KM01",
+                    "img":"https://i.ibb.co/2vC7NCM/20.jpg",
+                    "cost": "₹3,995.00",
+                    "rating": ""
+                }
+            ]
         }
-},
-{
-    "id":1,
-    "Category":"Fashion",
-    "Product":"Women's-wear",
-    "Product-id": 2
-
-},
-
-{
-    "id":1,
-    "Category":"Fashion",
-    "Product":"Boys",
-    "Product-id": 3,
-    "Price":"",
-    "Size":"",
-    "Img":""
-},
-{
-    "id":1,
-    "Category":"Fashion",
-    "Product":"girls",
-    "Product-id": 4,
-    "Price":"",
-    "Size":"",
-    "Img":"",
-    "Color":"",
-    "Brand":""
-},
-{
-    "id":1,
-    "Category":"Fashion",
-    "Product":"kids",
-    "Product-id": 5,
-    "Price":"",
-    "Size":"",
-    "Img":"",
-    "Color":"",
-    "Brand":""
-}
+    },
+    {
+        "id": 1,
+        "Category": "Fashion",
+        "Product": "Women's-wear",
+        "Product-id": 2
+    },
+    {
+        "id": 1,
+        "Category": "Fashion",
+        "Product": "Boys",
+        "Product-id": 3,
+        "Price": "",
+        "Size": "",
+        "Img": ""
+    },
+    {
+        "id": 1,
+        "Category": "Fashion",
+        "Product": "girls",
+        "Product-id": 4,
+        "Price": "",
+        "Size": "",
+        "Img": "",
+        "Color": "",
+        "Brand": ""
+    },
+    {
+        "id": 1,
+        "Category": "Fashion",
+        "Product": "kids",
+        "Product-id": 5,
+        "Price": "",
+        "Size": "",
+        "Img": "",
+        "Color": "",
+        "Brand": ""
+    }
 ]
-

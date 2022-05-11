@@ -13,10 +13,6 @@ li{
     border: none;
     line-height: 15px;
 }
-#out{
-    z-index: 1000000;
-    /* border: 2px solid black; */
-}
 #weatherOut{
     z-index: 1000000;
     line-height: 15px;
@@ -30,6 +26,11 @@ li{
     width: 350px;
     z-index: 1111000000000;
     height: 100px;
+    /* margin: auto; */
+    margin-left: 628px;
+    margin-top: 304px;
+    /* border: 2px solid black; */
+    padding: 26px;
 }
 nav{
     background-color: black;
@@ -41,15 +42,18 @@ nav{
 .navitem{
     float: left;
     color: white;
-    margin-top: 20px;
-    margin-left: 30px;
+    margin-top: 30px;
+    margin-left: 45px;
+    line-height: 16px;
 }
 .navitem>.dropdown{
     margin-top: 7px;
 }
 .navitem>span>.dropdown>input{
     height: 38px;
-    width: 500px;
+    width: 580px;
+    border-radius: 3px;
+    border: none;
     margin-left: 62px;
 }
 .navitem:hover{
@@ -91,12 +95,13 @@ nav{
     background-color: transparent;
     position: absolute;
     margin-top: -192px;
+    margin-left: 3px;
     z-index: 2;
 }
 .gri-ite{
     padding: 20px;
     background-color: white;
-    width: 415px;
+    width: 470px;
 }
 .it4{
     grid-column-start: 1;
