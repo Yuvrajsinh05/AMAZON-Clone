@@ -442,11 +442,57 @@
     {
         "id": 1,
         "Category": "Fashion",
-        "Product": "Boys",
+        "type": "Boys",
         "Product-id": 3,
-        "Price": "",
-        "Size": "",
-        "Img": ""
+        "Product":{
+            "t-shirt":[
+                {
+                "item": "1",
+                "description": "Lion King by Wear Your Mind Boy's Regular fit T-Shirt",
+                "img": "https://i.ibb.co/X4m9TXy/51.jpg",
+                "cost": "₹379.00 - ₹500.00",
+                "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
+                "color": ["Brown","Orange"],
+                "rating": ""
+                },
+                {
+                "item": "2",
+                "description": "Spiderman By Kidsville Boy's T-Shirt",
+                "img": "https://i.ibb.co/Nyd9TH5/52.jpg",
+                "cost": "₹259.00 - ₹319.00",
+                "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
+                "color": ["Blue","Orange"],
+                "rating": ""
+                }
+                {
+                "item": "3",
+                "description": "Boy's T-Shirts",
+                "img": "https://i.ibb.co/rsyxL2b/53.jpg",
+                "cost": "₹179.00 - ₹249.00",
+                "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
+                "color": ["white","Orange"],
+                "rating": ""
+                }
+                {
+                "item": "4",
+                "description": "T2F Boy's Regular fit T-Shirt",
+                "img": "https://i.ibb.co/dcVRMZ2/54.jpg",
+                "cost": "₹579.00 - ₹799.00",
+                "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
+                "color": ["Brown","Orange"],
+                "rating": ""
+                }
+                {
+                "item": "1",
+                "description": "HELLCAT Boys Round Neck Printed Blended Cotton Tshirt -Combo Pack of 3",
+                "img": "https://i.ibb.co/tqhHhM7/55.jpg",
+                "cost": "₹599.00",
+                "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
+                "color": ["Dark blue gray"],
+                "rating": ""
+                }
+            ]
+        }
     },
     {
         "id": 1,
