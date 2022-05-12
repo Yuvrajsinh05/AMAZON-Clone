@@ -282,7 +282,7 @@
                     "rating": ""
                 }
             ],
-          "Dress":[
+            "Dress":[
            { "item": "6",
              "description": "RARE Women's Synthetic a-line Knee-Long Dress",
              "img": "https://i.ibb.co/3Rv4DQ9/31.jpg",
@@ -302,13 +302,140 @@
            { "item": "8",
              "description": "Harpa Women's Polyester A-Line Maxi Dress",
              "img": "https://i.ibb.co/QrV1GPd/33.jpg",
-             "cost": "₹769.00 - ₹967.00",
+             "cost": "₹469.00 - ₹609.00",
              "size": [ "XS","S","M","L","XL"],
              "color": ["White","Pink"],
              "rating": ""
+             },
+           { "item": "9",
+             "description": "Lymio Women's Rayon Dress-1 Medium",
+             "img": "https://i.ibb.co/kmFrpNf/34.jpg",
+             "cost": "₹769.00 - ₹967.00",
+             "size": [ "XS","S","M","L","XL"],
+             "color": ["White","skyblue","orange","Pink"],
+             "rating": ""
+             },
+           { "item": "10",
+             "description": "DHRUVI TRENDZ Women Rayon Casual Wear Western Maxi Dress Gown for Girl/Women/Ladies",
+             "img": "https://i.ibb.co/BnJSx2Z/35.jpg",
+             "cost": "419.00",
+             "size": [ "XS","S","M","L","XL"],
+             "color": ["Multi colour","brown","White","Pink"],
+             "rating": ""
              }
-          ]
+          ],
 
+          "Salwar":[
+            { "item": "11",
+                "description": "GoSriKi Women's Ruby Cotton Printed Straight Kurta with Palazzos & Dupatta",
+                "img": "https://i.ibb.co/v1pY3vL/36.jpg",
+                "cost": "₹659.00 - ₹699.00",
+                "size": [ "XS","S","M","L","XL"],
+                "color": ["Black","Green","White","Pink"],
+                "rating": ""
+            },
+            { "item": "12",
+                "description": "Ayukta Women's Cotton Salwar Suit Set",
+                "img": "https://i.ibb.co/Tkk6CXh/37.jpg",
+                "cost": "₹939.00",
+                "size": [ "XS","S","M","L","XL"],
+                "color": ["Blue","Green","White","Pink"],
+                "rating": ""
+            },
+            { "item": "13",
+                "description": "Rajnandini Women's Grey Chanderi Silk Embroidered Semi-Stitched Salwar Suit Material With Printed Dupatta (Free Size)",
+                "img": "https://i.ibb.co/gW7FQW4/38.jpg",
+                "cost": "₹₹630.00",
+                "size": [ "XS","S","M","L","XL"],
+                "color": ["Green","White","Pink"],
+                "rating": ""
+            },
+            { "item": "14",
+                "description": "Pistaa's Women's Cotton Salwar Suit Set",
+                "img": "https://i.ibb.co/Qr5Ys81/39.jpg",
+                "cost": "898.00",
+                "size": [ "XS","S","M","L","XL","2XL","3XL","4XL"],
+                "color": ["Black","Green","White","Pink"],
+                "rating": ""
+            },
+            { "item": "15",
+                "description": "Pistaa's Women's Cotton Kurta With Palazzo",
+                "img": "https://i.ibb.co/ZKpxDwb/40.jpg",
+                "cost": "₹599.00 - ₹999.00",
+                "size": [ "XS","S","M","L","XL"],
+                "color": ["Orange","Black","Green","White","Pink"],
+                "rating": ""
+            }
+          ],
+          "Handbag":[
+            { "item": "16",
+                "description": "Fargo Handbag For Women And Girls COMBO SET OF 5 (Light5pc)",
+                "img": "https://i.ibb.co/dcN9SZZ/41.jpg",
+                "cost": "₹499.00",
+                "color": ["Green","White","Pink"],
+                "rating": ""
+            },
+            { "item": "17",
+                "description": "Mammon Women's PU Leather Handbag Combo",
+                "img": "https://i.ibb.co/3hLR6pJ/42.jpg",
+                "cost": "₹569.00",
+                "color": ["Black","White","Pink","Mint"],
+                "rating": ""
+            },
+            { "item": "18",
+                "description": "Fargo Handbag For Women And Girls Combo Set Of 3 (Pink_ColorStrip_FGO-455)",
+                "img": "https://i.ibb.co/dj1mTRm/43.jpg",
+                "cost": "₹499.00",
+                "color": ["Green","White","Pink"],
+                "rating": ""
+            },
+            { "item": "19",
+                "description": "Womens Hand Bag from tip top Fashion (chipkali) (Grey)",
+                "img": "https://i.ibb.co/cFx8y5z/44.jpg",
+                "cost": "279.00",
+                "color": ["Green","White","Pink"],
+                "rating": ""
+            },
+            { "item": "20",
+                "description": "Wild Maple Women's Handbag Black Combo of 2",
+                "img": "https://i.ibb.co/qJmnkcf/45.jpg",
+                "cost": "₹499.00",
+                "color": ["Green","White","Pink"],
+                "rating": ""
+            }
+          ],
+          "Watchs":[
+            { "item": "21",
+                "description": "Fossil Riley Analog Rose Gold Dial Women's Watch - ES2811",
+                "img": "https://i.ibb.co/zNxSk79/46.jpg",
+                "cost": "₹10,995.00",
+                "rating": ""
+            },
+            { "item": "22",
+                "description": "Titan Raga Women’s Bracelet Watch | Quartz, Water Resistant",
+                "img": "https://i.ibb.co/BnHPZz1/47.jpg",
+                "cost": "₹3,995.00",
+                "rating": ""
+            },
+            { "item": "23",
+                "description": "Titan Raga Viva Analog Rose Gold Dial Women's Watch-NL2575WM01",
+                "img": "https://i.ibb.co/rfvLYS1/48.jpg",
+                "cost": "₹5,685.00",
+                "rating": ""
+            },
+            { "item": "24",
+                "description": "Titan Raga Analog Mother of Pearl Dial Women's Watch NM95011WM03/NN95011WM03/NP95011WM03",
+                "img": "https://i.ibb.co/sKj96cQ/49.jpg",
+                "cost": "₹16,995.00",
+                "rating": ""
+            },
+            { "item": "25",
+                "description": "Imperial Club Analogue Women's Watch (Gold Dial Gold Colored Strap)",
+                "img": "https://i.ibb.co/QKzs23Y/50.jpg",
+                "cost": "₹349.00",
+                "rating": ""
+            }
+          ]
         }
     
     },
