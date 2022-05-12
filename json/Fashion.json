@@ -463,7 +463,7 @@
                 "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
                 "color": ["Blue","Orange"],
                 "rating": ""
-                }
+                },
                 {
                 "item": "3",
                 "description": "Boy's T-Shirts",
@@ -472,7 +472,7 @@
                 "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
                 "color": ["white","Orange"],
                 "rating": ""
-                }
+                },
                 {
                 "item": "4",
                 "description": "T2F Boy's Regular fit T-Shirt",
@@ -481,9 +481,9 @@
                 "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
                 "color": ["Brown","Orange"],
                 "rating": ""
-                }
+                },
                 {
-                "item": "1",
+                "item": "5",
                 "description": "HELLCAT Boys Round Neck Printed Blended Cotton Tshirt -Combo Pack of 3",
                 "img": "https://i.ibb.co/tqhHhM7/55.jpg",
                 "cost": "₹599.00",
@@ -491,29 +491,239 @@
                 "color": ["Dark blue gray"],
                 "rating": ""
                 }
-            ]
-        }
+            ],
+            "sets":[
+                {
+                    "item": "6",
+                    "description": " Hopscotch Boys Gray Graphic Print Top and Pant Set",
+                    "img": "https://i.ibb.co/qDm5CYj/56.jpg",
+                    "cost": "₹675.00",
+                    "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
+                    "color": ["white"],
+                    "rating": ""
+                },
+                {
+                    "item": "7",
+                    "description": " Hopscotch Boys Navy Polka Dot Print Top and Pant Sett",
+                    "img": "https://i.ibb.co/ZLwWMkN/57.jpgg",
+                    "cost": "₹675.00",
+                    "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
+                    "color": ["black"],
+                    "rating": ""
+                },
+                {
+                    "item": "8",
+                    "description": "Hopscotch Boys 100% Cotton Graphic Print Jogger Set in Navy Color",
+                    "img": "https://i.ibb.co/Jp6FVZv/58.jpg",
+                    "cost": "₹675.00",
+                    "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
+                    "color": ["blue"],
+                    "rating": ""
+                },
+                {
+                    "item": "9",
+                    "description": " Hopscotch Boys and Girls Cotton Full Sleeves Animal Printed Top and Pyjama Set in Blue Color for Ages 6-7 Years (-3113295)",
+                    "img": "https://i.ibb.co/pQhJttM/59.jpg",
+                    "cost": "₹982.00",
+                    "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
+                    "color": ["white with multi colors"],
+                    "rating": ""
+                },
+                {
+                    "item": "10",
+                    "description": "Knitting Doodles 100% Pure Full Sleeves Yellow and Light Green Checks Night Suit with Pineapple Patch Set of 1 Shirt & Pyjama for Baby Boy and Baby Girl",
+                    "img": "https://i.ibb.co/ZmxvLbn/60.jpg",
+                    "cost": "₹899.00",
+                    "size": [ "2-3 years","3-4 years","4-5 years","5-6 year","6-7 year","7-8 year","8-9 year", "9-10 year"],
+                    "color": ["solar print","moon emb","birthday print"],
+                    "rating": ""
+                }
+            ],
+            "watchs":[
+                {
+                    "item": "11",
+                    "description": "Zoop Analog Multi-Colour Dial Children's Watch-NLC3030PP05/NPC3030PP05W",
+                    "img": "https://i.ibb.co/z2rJTD8/a61.jpg",
+                    "cost": "₹885.00",
+                    "rating": ""
+                },
+                {
+                    "item": "12",
+                    "description": "Skmei Bernsuisse Fashion Creative Children Cartoon Toy Car Digital Yellow Dial Boys And Girls Wrist Watches -1241           ",
+                    "img": "https://i.ibb.co/zsGvdvW/62.jpg",
+                    "cost": "₹399.00",
+                    "rating": ""
+                },
+                {
+                    "item": "13",
+                    "description": "Zoop Analogue Green Unisex Watch -NLC3025PP30W / NLC3025PP30W",
+                    "img": "https://i.ibb.co/4psH0D7/63.jpg",
+                    "cost": "₹545.00",
+                    "rating": ""
+                },
+                {
+                    "item": "14",
+                    "description": "Zoop Analog Silver Dial Children's Watch-NKC3021PP03W / NKC3021PP03W",
+                    "img": "https://i.ibb.co/ZmD4Kv0/64.jpg",
+                    "cost": "₹695.00",
+                    "rating": ""
+                },
+                {
+                    "item": "15",
+                    "description": "Zoop Digital Grey Dial Children's Watch-NLC4040PP02/NPC4040PP02",
+                    "img": "https://i.ibb.co/80vyY6t/65.jpg",
+                    "cost": "₹940.00",
+                    "rating": ""
+                }
+            ],
+            "Shoes":[
+                {"item": "16",
+                "description": "Coolz Unisex-Child's First Walker Shoe",
+                "img": "https://i.ibb.co/ggNzVkT/66.jpg",
+                "cost": "399.00",
+                "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+                "color": ["black"],
+                "rating": ""  
+                },
+                {
+                "item": "17",
+                "description": "Coolz Kids Unisex Casual Knitted Shoes with Light Blink-1 for 1-4 Years Boys and Girls",
+                "img": "https://i.ibb.co/L062Zpf/67.jpg",
+                "cost": "449.00",
+                "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+                "color": ["black"],
+                "rating": ""  
+                },
+                {
+                "item": "18",
+                "description": "Coolz Unisex-Child's Casual Shoe",
+                "img": "https://i.ibb.co/GWstBR9/68.jpg",
+                "cost": "312.00",
+                "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+                "color": ["black"],
+                "rating": "" 
+                },
+                {
+                "item": "19",
+                "description": "Coolz Kids Chu-Chu Sound Musical First Walking shoes Buddy-01 for Baby Boys and Baby Girls for 12-21 Months",
+                "img": "https://i.ibb.co/BTDHHqP/69.jpg",
+                "cost":"₹303.00 - ₹319.00",
+                "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+                "color": ["black"],
+                "rating": ""  
+                },
+                {
+                "item": "20",
+                "description": "Coolz Kids Unisex Casual Shoes Pogo-1 for 1-4 Years Boys and Girls",
+                "img": "https://i.ibb.co/6wXTXMH/70.jpg",
+                "cost": "329.00",
+                "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+                "color": ["Sky blue"],
+                "rating": ""  }
+            ]     
+           }
     },
     {
         "id": 1,
         "Category": "Fashion",
-        "Product": "girls",
+        "type": "girls",
         "Product-id": 4,
-        "Price": "",
-        "Size": "",
-        "Img": "",
-        "Color": "",
-        "Brand": ""
-    },
-    {
-        "id": 1,
-        "Category": "Fashion",
-        "Product": "kids",
-        "Product-id": 5,
-        "Price": "",
-        "Size": "",
-        "Img": "",
-        "Color": "",
-        "Brand": ""
+         "Product":{
+             "t-shirts":[
+          {
+              "item":"1",
+              "description":"MIST N FOGG Kids Girls Round Neck Half T Shirt",
+              "img": "https://i.ibb.co/SB4dPY7/71.jpg",
+              "cost": "₹320.00 - ₹499.00",
+              "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+              "color": ["Red","Black","Blue","Pink"],
+              "rating": ""
+          },
+          {
+              "item":"2",
+              "description":"MIST N FOGG Girls' T Shirt (Pack of 3)",
+              "img": "https://i.ibb.co/hFr2Vy4/72.jpg",
+              "cost": "₹440.00",
+              "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+              "color": ["Red","Black","Green"],
+              "rating": ""
+          },
+          {
+              "item":"3",
+              "description":"Girls' Cotton T-Shirt | Regular Fit T-Shirt| Baby Girl T Shirt | Girl Baby T Shirt |12-18 Month | 1-2 Year|2-3year| 3-4 Year| 4-5 Year |5-6 Year(Multi-Colored | Pack of 5)",
+              "img": "https://i.ibb.co/KhLMzcD/73.jpg",
+              "cost": "₹399.00 - ₹459.00",
+              "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+              "color": ["Red","Black","Blue","Pink","white"],
+              "rating": ""
+          },
+          {
+              "item":"4",
+              "description":"DEVEW Bear FACE Printed Crop top for Kids|One Side Off Shoulder Half Sleeve Crop top for Girls| Short Sleeve Crop top for Girls",
+              "img": "https://i.ibb.co/NTr75zR/74.jpg",
+              "cost": "₹199.00 - ₹399.00",
+              "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+              "color": ["Peach","Black","Blue","Pink"],
+              "rating": ""
+          },
+          {
+              "item":"5",
+              "description":"NammaBaby Girls' Hoseiry Cotton Full Sleeves T-Shirt Girls Top - Pack of 4",
+              "img": "https://i.ibb.co/brn6g31/75.jpg",
+              "cost": "₹449.00",
+              "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+              "color": ["Red","Blue","Blue","Pink"],
+              "rating": ""
+          }
+          ],
+          "sets":[
+              {
+                  "item":"6",
+                  "description":"Gunatit Girls Cotton Sleeveless Top and Short Set for Ages 1-6 Years",
+                  "img": "https://i.ibb.co/PC5W3RF/76.jpg",
+                  "cost": "₹449.00",
+                  "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+                  "color": ["Yellow","Pink"],
+                  "rating": ""
+              },
+              {
+                  "item":"7",
+                  "description":"Atalia Girl's Cotton Blend Graphic Printed Western Wear Top and Jeans Set; [P-ANGEL-P]",
+                  "img": "https://i.ibb.co/J2CG3Jq/77.jpg",
+                  "cost": "₹360.00 - ₹460.00",
+                  "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+                  "color": ["Light orange and blue","Pink","tomato"],
+                  "rating": ""
+              },
+              {
+                  "item":"8",
+                  "description":"ANG Fashion Regular Sleeve Solid Color Pearl Detailed Top Floral Print Palazzo Top Set",
+                  "img": "https://i.ibb.co/rydtg0T/78.jpg",
+                  "cost": "₹499.00",
+                  "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+                  "color": ["Yellow","Pink","light blue"],
+                  "rating": ""
+              },
+              {
+                  "item":"9",
+                  "description":"FNOCKS Casual Round neck T-shirt With Check Shorts set for Girl's",
+                  "img": "https://i.ibb.co/tJfLF2N/79.jpg",
+                  "cost": "₹449.00",
+                  "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+                  "color": ["Yellow","Blue"],
+                  "rating": ""
+              },
+              {
+                  "item":"10",
+                  "description":"Flower Print Top-Plazzo Set",
+                  "img": "https://i.ibb.co/PC5W3RF/76.jpg",
+                  "cost": "₹699.00",
+                  "size": [ "12-18 month","18-24 month","2-2.5 years","2.5-3 years","3-3.5 years","3.5-4 years"],
+                  "color": ["blue","Yellow","Pink","Green","Red"],
+                  "rating": ""
+              }
+          ]
+
+        }
     }
 ]
