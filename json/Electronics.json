@@ -2,9 +2,62 @@
    {
     "id":2,
     "Category":"ELectronics",
-    "Product":"mobiles",
     "eTool-id": 1,
-    "Brand":""
+    "type":"Phone",
+    "Product":{
+       "One-plus":[
+          {
+             "item":1,
+             "Description":"OnePlus Nord CE 2 5G (Bahamas Blue)",
+             "Cost":"₹24,999.00",
+             "Storage":"8GB RAM, 128GB Storage",
+             "img":"https://i.ibb.co/DLQCBVd/81.jpg",
+             "rating":""
+          },
+          {
+             "item":2,
+             "Description":"OnePlus Nord CE 2 Lite 5G (Blue Tide,)",
+             "Cost":"₹19,999.00",
+             "Storage":"6GB RAM, 128GB Storage",
+             "img":"https://i.ibb.co/mbFgzWd/82.jpg",
+             "rating":""
+          },
+          {
+             "item":3,
+             "Description":"OnePlus 9RT 5G (Hacker Black,)+Alexa hands-free capable",
+             "Cost":"₹45,999.00",
+             "Storage":" 12GB RAM, 256GB Storage",
+             "img":"https://i.ibb.co/8MkG77T/83.jpg",
+             "rating":""
+          },
+          {
+             "item":4,
+             "Description":"OnePlus 9 5G (Astral Black,)",
+             "Cost":"₹37,999.00",
+             "Storage":" 8GB RAM, 128GB Storage",
+             "img":"https://i.ibb.co/G7WYB1j/84.jpg",
+             "rating":""
+          },
+          {
+             "item":5,
+             "Description":"OnePlus 10 Pro 5G (Volcanic Black,)",
+             "Cost":"₹71,999.00",
+             "Storage":" 12GB RAM, 256GB Storage",
+             "img":"https://i.ibb.co/SmzWrWJ/85.jpg",
+             "rating":""
+          }
+       ],
+       "Samsung":[
+          {
+            "item":6,
+            "Description":"OnePlus 10 Pro 5G (Volcanic Black,)",
+            "Cost":"₹71,999.00",
+            "Storage":" 12GB RAM, 256GB Storage",
+            "img":"https://i.ibb.co/SmzWrWJ/85.jpg",
+            "rating":""
+          }
+       ]
+    }
    },
    {
     "id":2,
