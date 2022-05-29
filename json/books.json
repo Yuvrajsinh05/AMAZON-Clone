@@ -11,7 +11,7 @@
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 70,
-                "img": ""
+                "img": "https://i.ibb.co/6ZqJ1pY/1.jpg"
             },
             {
                 "Bookname": "Sudha Murty",
@@ -19,7 +19,7 @@
                 "size": "16.2 x 10.4 cm",
                 "language": "English",
                 "Pages": 232,
-                "img": ""
+                "img": "https://i.ibb.co/jfhTYdR/2.jpg"
             },
             {
                 "Bookname": "Nikola Tesla",
@@ -27,7 +27,7 @@
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 44,
-                "img": ""
+                "img": "https://i.ibb.co/p2tgK5V/3.jpg"
             },
             {
                 "Bookname": "APJABDULKALAM WINGS OF FIRE",
@@ -38,7 +38,7 @@
                     "Hindi"
                 ],
                 "Pages": 180,
-                "img": ""
+                "img": "https://i.ibb.co/0KPjFfC/4.jpg"
             },
             {
                 "Bookname": "STEPHEN HAWKING",
@@ -46,7 +46,7 @@
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 256,
-                "img": ""
+                "img": "https://i.ibb.co/d7Dp11J/5.jpg"
             }
         ]
     },
@@ -65,7 +65,7 @@
                     "Hindi"
                 ],
                 "Pages": 770,
-                "img": ""
+                "img": "https://i.ibb.co/j8ydbDw/6.jpg"
             },
             {
                 "Bookname": "Ramayana",
@@ -76,7 +76,7 @@
                     "Hindi"
                 ],
                 "Pages": 1000,
-                "img": ""
+                "img": "https://i.ibb.co/F7V5xLP/7.jpg"
             },
             {
                 "Bookname": "Shree Bhagwad Geeta",
@@ -86,7 +86,7 @@
                     "English",
                     "Hindi"
                 ],
-                "img": ""
+                "img": "https://i.ibb.co/Cbw3Gnt/8.jpg"
             },
             {
                 "Bookname": "ARTHASHASTRA",
@@ -97,7 +97,7 @@
                     "Hindi"
                 ],
                 "Pages": 600,
-                "img": ""
+                "img": "https://i.ibb.co/0YgNcDG/9.jpg"
             },
             {
                 "Bookname": "Mythologo",
@@ -105,7 +105,7 @@
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 384,
-                "img": ""
+                "img": "https://i.ibb.co/zhnZ11V/10.jpg"
             }
         ]
     },
@@ -121,7 +121,7 @@
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 482,
-                "img": ""
+                "img": "https://i.ibb.co/fXwCpxw/11.jpg"
             },
             {
                 "Bookname": "How to influnece friends and win people",
@@ -132,7 +132,7 @@
                     "Hindi"
                 ],
                 "Pages": 348,
-                "img": ""
+                "img": "https://i.ibb.co/WpkzrRM/12.jpg"
             },
             {
                 "Bookname": "the Power of your subconscious MIND",
@@ -143,7 +143,7 @@
                     "Hindi"
                 ],
                 "Pages": 296,
-                "img": ""
+                "img": "https://i.ibb.co/6t890CQ/13.jpg"
             },
             {
                 "Bookname": "Do Epic Shit ",
@@ -151,7 +151,7 @@
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 312,
-                "img": ""
+                "img": "https://i.ibb.co/dQxDPvy/14.jpg"
             },
             {
                 "Bookname": "train your  brain",
@@ -162,7 +162,7 @@
                     "Hindi"
                 ],
                 "Pages": 231,
-                "img": ""
+                "img": "https://i.ibb.co/0DHyzLZ/15.jpg"
             }
         ]
     },
@@ -181,7 +181,7 @@
                     "Hindi"
                 ],
                 "Pages": 660,
-                "img": ""
+                "img": "https://i.ibb.co/tq112jg/16.jpg"
             },
             {
                 "Bookname": "THE Psychology of Money",
@@ -192,7 +192,7 @@
                     "Hindi"
                 ],
                 "Pages": 252,
-                "img": ""
+                "img": "https://i.ibb.co/2Sv9HGN/17.jpg"
             },
             {
                 "Bookname": "Richdad Poordad",
@@ -203,17 +203,8 @@
                     "Hindi"
                 ],
                 "Pages": 336,
-                "img": ""
+                "img": "https://i.ibb.co/PgBz5Vn/18.jpg"
             }
-        ]
-    },
-    {
-        "id": 3,
-        "Category": "Books",
-        "type": "science",
-        "Book_id": 5,
-        "Product": [
-            "will update sonn"
         ]
     }
 ]

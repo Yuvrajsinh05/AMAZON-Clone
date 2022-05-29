@@ -50,10 +50,42 @@
        "Samsung":[
           {
             "item":6,
-            "Description":"OnePlus 10 Pro 5G (Volcanic Black,)",
-            "Cost":"₹71,999.00",
-            "Storage":" 12GB RAM, 256GB Storage",
-            "img":"https://i.ibb.co/SmzWrWJ/85.jpg",
+            "Description":"Samsung Galaxy S20 FE 5G (Cloud Navy)",
+            "Cost":"₹34,990.00",
+            "Storage":" 8GB RAM, 128GB Storage",
+            "img":"https://i.ibb.co/yV4znRP/86.jpg",
+            "rating":""
+          },
+          {
+            "item":7,
+            "Description":"Samsung Galaxy M52 5G (ICY Blue,)",
+            "Cost":"₹24,999.00",
+            "Storage":"  6GB RAM, 128GB Storage",
+            "img":"https://i.ibb.co/X5qfKm7/87.jpg",
+            "rating":""
+          },
+          {
+            "item":6,
+            "Description":"Samsung Galaxy S20 FE 5G (Cloud Navy)",
+            "Cost":"₹34,990.00",
+            "Storage":" 8GB RAM, 128GB Storage",
+            "img":"https://i.ibb.co/yV4znRP/86.jpg",
+            "rating":""
+          },
+          {
+            "item":6,
+            "Description":"Samsung Galaxy S20 FE 5G (Cloud Navy)",
+            "Cost":"₹34,990.00",
+            "Storage":" 8GB RAM, 128GB Storage",
+            "img":"https://i.ibb.co/yV4znRP/86.jpg",
+            "rating":""
+          },
+          {
+            "item":6,
+            "Description":"Samsung Galaxy S20 FE 5G (Cloud Navy)",
+            "Cost":"₹34,990.00",
+            "Storage":" 8GB RAM, 128GB Storage",
+            "img":"https://i.ibb.co/yV4znRP/86.jpg",
             "rating":""
           }
        ]
