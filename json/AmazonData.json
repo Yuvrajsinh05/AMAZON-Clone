@@ -1,22 +1,23 @@
 [
    {
        "id":1,
-       "Category":"Fashion"
+       "Category":"Fashion",
+       "category_id":1,
+       "type":["Men's-wear","Women's-wear","Boys","girls"]
    },
    {
       "id":2,
-      "Category":"ELectronics"
+      "Category":"ELectronics",
+      "category_id":2
    },
    {
       "id":3,
-      "Category":"Books"
+      "Category":"Books",
+      "category_id":3
    },
    {
       "id":4,
-      "Category":"Beauty"
-   },
-   {
-      "id":5,
-      "Category":"Trend"
+      "Category":"Beauty",
+      "category_id":4
    }
 ]
