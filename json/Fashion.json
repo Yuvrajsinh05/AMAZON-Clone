@@ -2,6 +2,7 @@
     {
         "id": 1,
         "Category": "Fashion",
+        "Category-id": 1,
         "type": "Men's-wear",
         "Product-id": 1,
         "Product": {
@@ -27,7 +28,7 @@
                 {
                     "item": "3",
                     "description": "Jockey Men's Regular Fit Round Neck Half Sleeved T-Shirt",
-                    "img": "https://i.ibb.co/183SvC8/3.jpg",
+                    "img": "https://i.ibb.co/GQ6yzfg/3.jpg",
                     "cost": "₹399.00 - ₹799.00",
                     "size": ["S","M","L","XL" ],
                     "color": ["white"],
@@ -232,6 +233,7 @@
     {
         "id": 1,
         "Category": "Fashion",
+        "Category-id": 1,
         "type": "Women's-wear",
         "Product-id": 2,
         "Product":{
@@ -442,6 +444,7 @@
     {
         "id": 1,
         "Category": "Fashion",
+        "Category-id": 1,
         "type": "Boys",
         "Product-id": 3,
         "Product":{
@@ -626,6 +629,7 @@
     {
         "id": 1,
         "Category": "Fashion",
+        "Category-id": 1,
         "type": "girls",
         "Product-id": 4,
          "Product":{
