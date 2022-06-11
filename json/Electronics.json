@@ -462,8 +462,93 @@
     "id":2,
     "Category":"ELectronics",
     "Category-id": 2,
-    "Product":"Smart-Tv",
+    "type":"Smart-Tv",
     "eTool-id": 4,
-    "Brand":""
+    "Product":{
+      "Samsung":[
+         {
+            "item":6,
+            "Description":"Samsung 4K Ultra HD Smart QLED TV QA55Q60AAKLXL (Black) (2021 Model)",
+            "Cost":"₹90,990.00",
+            "Screen_size":"55 Inches",
+            "img":"https://i.ibb.co/Sd4GFZS/136.jpg",
+            "rating":""
+         },
+         {
+            "item":2,
+            "Description":"Samsung Wondertainment Series Full HD LED Smart TV UA43TE50AAKXXL (Titan Gray) (2020 model)",
+            "Cost":"₹30,990.00",
+            "Screen_size":"43 Inches",
+            "img":"https://i.ibb.co/v3FKw1d/137.jpg",
+            "rating":""
+      },
+         {
+            "item":3,
+            "Description":"Samsung The Serif Series 4K Ultra HD Smart QLED TV QA49LS01TAKXXL (Cloud White) (2020 Model)",
+            "Cost":"₹74,990.00",
+            "Screen_size":"49 Inches",
+            "img":"https://i.ibb.co/HK29RSg/138.jpg",
+            "rating":""
+      },
+         {
+            "item":4,
+            "Description":"Samsung Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black) (2021 Model)",
+            "Cost":"₹15,999.00",
+            "Screen_size":"32 Inches",
+            "img":"https://i.ibb.co/xLgVT4t/139.jpg",
+            "rating":""
+      },
+         {
+            "item":5,
+            "Description":"Samsung Crystal 4K Pro Series Ultra HD Smart LED TV UA43AUE70AKLXL (Black) (2021 Model)",
+            "Cost":"₹34,990.00",
+            "Screen_size":"43 Inches",
+            "img":"https://i.ibb.co/X36JQRB/140.jpg",
+            "rating":""
+      }
+       ],
+      "LG":[
+         {
+            "item":6,
+            "Description":"LG  4K Ultra HD Smart OLED TV 55G1PTZ (Dark Steel Silver) (2021 Model) (OLED55G1PTZ)",
+            "Cost":"₹1,47,990.00",
+            "Screen_size":"55 Inches",
+            "img":"https://i.ibb.co/Jcb9pCB/141.jpg",
+            "rating":""
+         },
+         {
+            "item":7,
+            "Description":"Samsung Wondertainment Series Full HD LED Smart TV UA43TE50AAKXXL (Titan Gray) (2020 model)",
+            "Cost":"₹30,990.00",
+            "Screen_size":"43 Inches",
+            "img":"https://i.ibb.co/4RNGY8p/142.jpg",
+            "rating":""
+      },
+         {
+            "item":8,
+            "Description":"Samsung The Serif Series 4K Ultra HD Smart QLED TV QA49LS01TAKXXL (Cloud White) (2020 Model)",
+            "Cost":"₹74,990.00",
+            "Screen_size":"49 Inches",
+            "img":"https://i.ibb.co/3dSKXHD/143.jpg",
+            "rating":""
+      },
+         {
+            "item":9,
+            "Description":"Samsung Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black) (2021 Model)",
+            "Cost":"₹15,999.00",
+            "Screen_size":"32 Inches",
+            "img":"https://i.ibb.co/h9WbshR/144.jpg",
+            "rating":""
+      },
+         {
+            "item":10,
+            "Description":"Samsung Crystal 4K Pro Series Ultra HD Smart LED TV UA43AUE70AKLXL (Black) (2021 Model)",
+            "Cost":"₹34,990.00",
+            "Screen_size":"43 Inches",
+            "img":"https://i.ibb.co/qdX7FYb/145.jpg",
+            "rating":""
+      }
+       ]
+    }
  }
 ]
