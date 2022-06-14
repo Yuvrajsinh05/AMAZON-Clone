@@ -2,8 +2,8 @@
    {
     "id":2,
     "Category":"ELectronics",
-    "Category-id": 2,
-    "eTool-id": 1,
+    "category_id": 2,
+    "eTool_id": 1,
     "type":"Phone",
     "Product":{
        "One-plus":[
@@ -12,7 +12,7 @@
              "Description":"OnePlus Nord CE 2 5G (Bahamas Blue)",
              "Cost":"₹24,999.00",
              "Storage":"8GB RAM, 128GB Storage",
-             "img":"https://i.ibb.co/DLQCBVd/81.jpg",
+             "img":"https://i.ibb.co/Y3MMdXq/81.jpg",
              "rating":""
           },
           {
@@ -179,9 +179,9 @@
    {
     "id":2,
     "Category":"ELectronics",
-    "Category-id": 2,
+    "category_id": 2,
     "type":"Ac",
-    "eTool-id": 2,
+    "eTool_id": 2,
     "Product":{
       "LG":[
          {
@@ -291,9 +291,9 @@
 
     "id":2,
     "Category":"ELectronics",
-    "Category-id": 2,
+    "category_id": 2,
     "type":"Laptops",
-    "eTool-id": 3,
+    "eTool_id": 3,
     "Product":{
        "HP":[
          {
@@ -461,9 +461,9 @@
 
     "id":2,
     "Category":"ELectronics",
-    "Category-id": 2,
-    "type":"Smart-Tv",
-    "eTool-id": 4,
+    "category_id": 2,
+    "type":"Smart_Tv",
+    "eTool_id": 4,
     "Product":{
       "Samsung":[
          {

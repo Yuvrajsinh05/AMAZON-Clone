@@ -2,9 +2,9 @@
     {
         "id": 1,
         "Category": "Fashion",
-        "Category-id": 1,
+        "category_id": 1,
         "type": "Men's-wear",
-        "Product-id": 1,
+        "Product_id": 1,
         "Product": {
             "t-shirts": [
                 {
@@ -74,7 +74,7 @@
                 },
                 {
                     "item": "8",
-                    "description": "IndoPrimo Men's Classic Fit Casual Shirt",
+                    "description": "IndoPrimo Men's classNameic Fit Casual Shirt",
                     "img": "https://i.ibb.co/NnG990v/8.jpg",
                     "cost": "₹499.00",
                     "size": ["S","M","L","XL" ],
@@ -233,9 +233,9 @@
     {
         "id": 1,
         "Category": "Fashion",
-        "Category-id": 1,
+        "category_id": 1,
         "type": "Women's-wear",
-        "Product-id": 2,
+        "Product_id": 2,
         "Product":{
             "tops": [
                 {
@@ -444,11 +444,11 @@
     {
         "id": 1,
         "Category": "Fashion",
-        "Category-id": 1,
+        "category_id": 1,
         "type": "Boys",
-        "Product-id": 3,
+        "Product_id": 3,
         "Product":{
-            "t-shirt":[
+            "t_shirt":[
                 {
                 "item": "1",
                 "description": "Lion King by Wear Your Mind Boy's Regular fit T-Shirt",
@@ -629,11 +629,11 @@
     {
         "id": 1,
         "Category": "Fashion",
-        "Category-id": 1,
+        "category_id": 1,
         "type": "girls",
-        "Product-id": 4,
+        "Product_id": 4,
          "Product":{
-             "t-shirts":[
+             "t_shirts":[
           {
               "item":"1",
               "description":"MIST N FOGG Kids Girls Round Neck Half T Shirt",

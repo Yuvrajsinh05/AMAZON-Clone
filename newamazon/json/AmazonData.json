@@ -10,7 +10,9 @@
    {
       "id":2,
       "Category":"ELectronics",
-      "category_id":2
+      "category_id":2,
+      "type":["Phone",""],
+      "img":["https://i.ibb.co/Y3MMdXq/81.jpg","https://i.ibb.co/yV4znRP/86.jpg","https://i.ibb.co/v3FKw1d/137.jpg","https://i.ibb.co/h9QrCgs/101.jpg","https://i.ibb.co/CKcxWY2/116.jpg"]
    },
    {
       "id":3,
@@ -18,10 +20,5 @@
       "category_id":3,
       "type":["BIOGRAPHY","mythology","personality-dev","Investment"],
       "img":["https://i.ibb.co/6ZqJ1pY/1.jpg","https://i.ibb.co/p2tgK5V/3.jpg","https://i.ibb.co/j8ydbDw/6.jpg","https://i.ibb.co/Cbw3Gnt/8.jpg","https://i.ibb.co/6t890CQ/13.jpg"]
-   },
-   {
-      "id":4,
-      "Category":"Beauty",
-      "category_id":4
    }
 ]
