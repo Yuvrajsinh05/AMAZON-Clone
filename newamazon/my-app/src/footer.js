@@ -41,7 +41,7 @@ const Footer = (props) => {
             </table>
             <hr/>
             <img src="./images/amazon.png" alt=""/>
-            <button><i class="fa-solid fa-globe"></i> English </button>
+            <button><i className="fa-solid fa-globe"></i> English </button>
             <br/>
             <p>
                 <span>Australia</span>

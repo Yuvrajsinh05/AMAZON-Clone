@@ -5,8 +5,14 @@ const MongoClient = mongo.MongoClient;
 const dotenv = require('dotenv');
 dotenv.config()
 let port = process.env.PORT ||8230;
-const mongoUrl = process.env.mongoUrl
+const mongoUrl = process.env.mongoUrlLive;
+const bodyParser = require('body-parser');
+const cors = require('cors');
 
+// middleware
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json())
+app.use(cors())
 
 app.get('/',(req,res)=>{
     res.send("welcome uviiiii")

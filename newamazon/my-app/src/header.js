@@ -14,14 +14,14 @@ const Header = (props) => {
                         <li><a href="#projects">Orders</a></li>
                         <li><a href="#cart"><i className="fa-thin fa-cart-shopping-fast">cart</i></a></li>
                     </ul>
-                    <label for="nav-toggle" className="icon-burger">
+                    <label htmlFor="nav-toggle" className="icon-burger">
                         <div className="line"></div>
                         <div className="line"></div>
                         <div className="line"></div>
                     </label>
                     <div className="logo">
                         <div className="logolist">
-                            <input className="w-75" type="search"/>
+                            <input className="w-75" type="search"/>&nbsp;
                             <i className="fa-solid fa-magnifying-glass"></i>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ const Header = (props) => {
                             All
                         </button>
 
-                        <div className="offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar"
+                        <div className="offcanvas offcanvas-start" tabIndex="-1" id="offcanvasNavbar"
                             aria-labelledby="offcanvasNavbarLabel">
                             <div className="offcanvas-header">
                                 <h5 className="offcanvas-title" id="offcanvasNavbarLabel"><i className="fa-solid fa-circle-user"></i>
