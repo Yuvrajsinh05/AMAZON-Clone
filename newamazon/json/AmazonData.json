@@ -3,28 +3,24 @@
        "id":1,
        "Category":"Fashion",
        "category_id":1,
-       "type":["Men's-wear","Boys","girls"],
-       "img":["https://i.ibb.co/Sy445rz/4.jpg","https://i.ibb.co/Jp6FVZv/58.jpg","https://i.ibb.co/hFr2Vy4/72.jpg"]
-   },
-   {
-       "id":1,
-       "Category":"Fashion",
-       "category_id":1,
-       "type":"Women's-wear",
-       "img":["https://i.ibb.co/3Rv4DQ9/31.jpg","https://i.ibb.co/hVtkhC8/27.jpg","https://i.ibb.co/Tkk6CXh/37.jpg","https://i.ibb.co/ZKpxDwb/40.jpg","https://i.ibb.co/BnJSx2Z/35.jpg"]
+       "type_id":[1,2,3,4],
+       "type":["Men's-wear","Women's wear","Boys","girls"],
+       "img":["https://i.ibb.co/Sy445rz/4.jpg","https://i.ibb.co/3Rv4DQ9/31.jpg","https://i.ibb.co/Jp6FVZv/58.jpg","https://i.ibb.co/hFr2Vy4/72.jpg"]
    },
    {
       "id":2,
       "Category":"ELectronics",
       "category_id":2,
-      "type":["Phone",""],
-      "img":["https://i.ibb.co/Y3MMdXq/81.jpg","https://i.ibb.co/yV4znRP/86.jpg","https://i.ibb.co/v3FKw1d/137.jpg","https://i.ibb.co/h9QrCgs/101.jpg","https://i.ibb.co/CKcxWY2/116.jpg"]
+      "type_id":[1,2,3,4],
+      "type":["Phone","Ac","Laptops","Smart-tv"],
+      "img":["https://i.ibb.co/Y3MMdXq/81.jpg","https://i.ibb.co/h9QrCgs/101.jpg","https://i.ibb.co/2Y5JkdH/118.jpg","https://i.ibb.co/v3FKw1d/137.jpg"]
    },
    {
       "id":3,
       "Category":"Books",
       "category_id":3,
       "type":["BIOGRAPHY","mythology","personality-dev","Investment"],
-      "img":["https://i.ibb.co/6ZqJ1pY/1.jpg","https://i.ibb.co/p2tgK5V/3.jpg","https://i.ibb.co/j8ydbDw/6.jpg","https://i.ibb.co/Cbw3Gnt/8.jpg","https://i.ibb.co/6t890CQ/13.jpg"]
+      "type_id":[1,2,3,4],
+      "img":["https://i.ibb.co/6ZqJ1pY/1.jpg","https://i.ibb.co/j8ydbDw/6.jpg","https://i.ibb.co/fXwCpxw/11.jpg","https://i.ibb.co/tq112jg/16.jpg"]
    }
 ]

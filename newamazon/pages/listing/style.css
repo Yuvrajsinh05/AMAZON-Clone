@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+.filter{
+    /* border: 2px solid black; */
+    width: 15%;
+    float: left;
+}
+
+li{
+    list-style: none;
+    line-height: 35px;
+}
+.listing{
+    /* border: 2px solid black; */
+    width: 80%;
+    float: right;
+}
+
+.items{
+    border: 2px solid red;
+}
+.cost{
+    /* border: 2px solid red; */
+}
+.innercolm{
+    border: 2px solid purple;
+}
+.item-box{
+    border-radius: 60px 2px 60px 2px;
+    box-shadow: 10px 10px 10px #babebf;
+}
+.proimg{
+    width: 100%;
+    border-radius: 55px 0px 0px 0px;
+}

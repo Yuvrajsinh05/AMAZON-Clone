@@ -132,7 +132,12 @@ li{
 .gridboox{
     z-index: 2;
     height: 350px;
+    box-shadow: 10px 10px 10px #babebf;
 }
+.gridboox:hover{
+   transform: scale(1.1,1.1);
+}
+
 .colmm{
     z-index: 3;
 }

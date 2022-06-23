@@ -3,7 +3,7 @@
     "id":2,
     "Category":"ELectronics",
     "category_id": 2,
-    "eTool_id": 1,
+    "type_id": 1,
     "type":"Phone",
     "Product":{
        "One-plus":[
@@ -181,7 +181,7 @@
     "Category":"ELectronics",
     "category_id": 2,
     "type":"Ac",
-    "eTool_id": 2,
+    "type_id": 2,
     "Product":{
       "LG":[
          {
@@ -293,7 +293,7 @@
     "Category":"ELectronics",
     "category_id": 2,
     "type":"Laptops",
-    "eTool_id": 3,
+    "type_id": 3,
     "Product":{
        "HP":[
          {
@@ -463,7 +463,7 @@
     "Category":"ELectronics",
     "category_id": 2,
     "type":"Smart_Tv",
-    "eTool_id": 4,
+    "type_id": 4,
     "Product":{
       "Samsung":[
          {

@@ -3,7 +3,7 @@
         "id": 3,
         "Category": "Books",
         "type": "BIOGRAPHY",
-        "Book_id": 1,
+        "type_id": 1,
         "Product": [
             {
                 "Bookname": "Steve-jobs",
@@ -53,7 +53,7 @@
     {
         "id": 3,
         "Category": "Books",
-        "Book_id": 2,
+        "type_id": 2,
         "type": "mythology",
         "Product": [
             {
@@ -113,7 +113,7 @@
         "id": 3,
         "Category": "Books",
         "type": "personality-dev",
-        "Book_id": 3,
+        "type_id": 3,
         "Product": [
             {
                 "Bookname": "Atomic Habit",
@@ -170,7 +170,7 @@
         "id": 3,
         "Category": "Books",
         "type": "Investment",
-        "Book_id": 4,
+        "type_id": 4,
         "Product": [
             {
                 "Bookname": "THE INTELLIGENT INVESTOR",

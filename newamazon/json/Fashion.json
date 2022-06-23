@@ -4,7 +4,7 @@
         "Category": "Fashion",
         "category_id": 1,
         "type": "Men's-wear",
-        "Product_id": 1,
+        "type_id": 1,
         "Product": {
             "t-shirts": [
                 {
@@ -235,7 +235,7 @@
         "Category": "Fashion",
         "category_id": 1,
         "type": "Women's-wear",
-        "Product_id": 2,
+        "type_id": 2,
         "Product":{
             "tops": [
                 {
@@ -446,7 +446,7 @@
         "Category": "Fashion",
         "category_id": 1,
         "type": "Boys",
-        "Product_id": 3,
+        "type_id": 3,
         "Product":{
             "t_shirt":[
                 {
@@ -631,7 +631,7 @@
         "Category": "Fashion",
         "category_id": 1,
         "type": "girls",
-        "Product_id": 4,
+        "type_id": 4,
          "Product":{
              "t_shirts":[
           {
