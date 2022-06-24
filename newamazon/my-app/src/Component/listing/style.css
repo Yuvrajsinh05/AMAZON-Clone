@@ -14,14 +14,32 @@ li{
 .listing{
     /* border: 2px solid black; */
     width: 80%;
+   
+    display: inline-table;
     float: right;
 }
+/* .contt{
+    margin-top: 200px;
+}
 
+
+.main-cont{
+    width: 80%;
+} */
+.listing-box{
+    display: flex;
+}
 .items{
     border: 2px solid red;
 }
 .cost{
     /* border: 2px solid red; */
+}
+.h33{
+    font-size: 17px;
+}
+.h55{
+    font-size: 13px;
 }
 .innercolm{
     border: 2px solid purple;
@@ -32,5 +50,12 @@ li{
 }
 .proimg{
     width: 100%;
-    border-radius: 55px 0px 0px 0px;
+    height: 300px;
+    border-radius: 55px 0px 50px 0px;
+}
+.contt{
+    display: inline-block;
+}
+li{
+    color: black;
 }

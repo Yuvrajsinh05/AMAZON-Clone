@@ -34,3 +34,57 @@ li{
     width: 100%;
     border-radius: 55px 0px 0px 0px;
 }
+
+
+
+/* fotr  */
+
+#footmain{
+    background-color: #2d3436;
+}
+#footmain>table{
+    margin: auto;
+    color: white;
+}
+#footmain th,td{
+    padding-left: 30px;
+}
+#footmain th{
+    font-size: 30px;
+}
+#footmain td{
+   text-align: center;
+   line-height: 40px;
+}
+#footmain img{
+  width: 100px;
+  margin-left: 530px;
+  margin-top: 50px;
+  height: 50px;
+}
+
+#footmain button {
+    margin-left: 120px;
+    margin-top: 48px;
+    position: absolute;
+}
+#footmain>p{
+    width: 65%;
+    margin: auto;
+
+}
+#footmain>p>span{
+    color: white;
+    margin-left: 10px;
+}
+
+.colm{
+	background-color:#171b1c;
+    text-align: center;
+    border-radius: 5px;
+	color: white;
+}
+.foot{
+	text-align: center;
+
+}

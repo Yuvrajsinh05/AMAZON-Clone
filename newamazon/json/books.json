@@ -4,34 +4,42 @@
         "Category": "Books",
         "type": "BIOGRAPHY",
         "type_id": 1,
-        "Product": [
+        "Product":[
             {
-                "Bookname": "Steve-jobs",
-                "Price": 150,
+                "heading": "Steve-jobs",
+                "brand":"Biography",
+                "brand_id":"1",
+                "cost": "₹150",
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 70,
                 "img": "https://i.ibb.co/6ZqJ1pY/1.jpg"
             },
             {
-                "Bookname": "Sudha Murty",
-                "Price": 185,
+                "heading": "Sudha Murty",
+                "brand":"Biography",
+                "brand_id":"1",
+                "cost": "₹185",
                 "size": "16.2 x 10.4 cm",
                 "language": "English",
                 "Pages": 232,
                 "img": "https://i.ibb.co/jfhTYdR/2.jpg"
             },
             {
-                "Bookname": "Nikola Tesla",
-                "Price": 2199,
+                "heading": "Nikola Tesla",
+                "brand":"Biography",
+                "brand_id":"1",
+                "cost": "₹2180",
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 44,
                 "img": "https://i.ibb.co/p2tgK5V/3.jpg"
             },
             {
-                "Bookname": "APJABDULKALAM WINGS OF FIRE",
-                "Price": 325,
+                "heading": "APJABDULKALAM WINGS OF FIRE",
+                "brand":"Biography",
+                "cost": "₹325",
+                "brand_id":"1",
                 "size": "22.2 x 16.4 cm",
                 "language": [
                     "English",
@@ -41,24 +49,27 @@
                 "img": "https://i.ibb.co/0KPjFfC/4.jpg"
             },
             {
-                "Bookname": "STEPHEN HAWKING",
-                "Price": 499,
+                "heading": "STEPHEN HAWKING",
+                "cost": "₹499",
+                "brand_id":"1",
+                "brand":"Biography",
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 256,
                 "img": "https://i.ibb.co/d7Dp11J/5.jpg"
             }
-        ]
-    },
+        ]},
     {
-        "id": 3,
+        "id": 3,    
         "Category": "Books",
         "type_id": 2,
         "type": "mythology",
-        "Product": [
+        "Product":[
             {
-                "Bookname": "MAHABHARAT",
-                "Price": 925,
+                "heading": "MAHABHARAT",
+                "cost": "₹925",
+                "brand":"mythology",
+                "brand_id":"1",
                 "size": "22.2 x 16.4 cm",
                 "language": [
                     "English",
@@ -68,10 +79,13 @@
                 "img": "https://i.ibb.co/j8ydbDw/6.jpg"
             },
             {
-                "Bookname": "Ramayana",
-                "Price": 316,
+                "heading": "Ramayana",
+                "cost": "₹316",
+                "brand":"mythology",
+                "brand_id":"1",
                 "size": "16.2 x 10.4 cm",
                 "language": [
+
                     "English",
                     "Hindi"
                 ],
@@ -79,8 +93,10 @@
                 "img": "https://i.ibb.co/F7V5xLP/7.jpg"
             },
             {
-                "Bookname": "Shree Bhagwad Geeta",
-                "Price": 156,
+                "heading": "Shree Bhagwad Geeta",
+                "brand":"mythology",
+                "cost": "₹156",
+                "brand_id":"1",
                 "size": "22.2 x 16.4 cm",
                 "language": [
                     "English",
@@ -89,9 +105,11 @@
                 "img": "https://i.ibb.co/Cbw3Gnt/8.jpg"
             },
             {
-                "Bookname": "ARTHASHASTRA",
-                "Price": 429,
+                "heading": "ARTHASHASTRA",
+                "brand":"mythology",
+                "cost": "₹429",
                 "size": "22.2 x 16.4 cm",
+                "brand_id":"1",
                 "language": [
                     "English",
                     "Hindi"
@@ -100,33 +118,38 @@
                 "img": "https://i.ibb.co/0YgNcDG/9.jpg"
             },
             {
-                "Bookname": "Mythologo",
-                "Price": 1299,
+                "heading": "Mythologo",
+                "brand":"mythology",
+                "brand_id":"1",
+                "cost": "₹1299",
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 384,
                 "img": "https://i.ibb.co/zhnZ11V/10.jpg"
             }
-        ]
-    },
+        ]},
     {
         "id": 3,
         "Category": "Books",
         "type": "personality-dev",
         "type_id": 3,
-        "Product": [
+        "Product":[
             {
-                "Bookname": "Atomic Habit",
-                "Price": 780,
+                "heading": "Atomic Habit",
+                "brand":"devlopment",
+                "brand_id":"1",
+                "cost": "₹780",
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 482,
                 "img": "https://i.ibb.co/fXwCpxw/11.jpg"
             },
             {
-                "Bookname": "How to influnece friends and win people",
-                "Price": 925,
+                "heading": "How to influnece friends and win people",
+                "cost": "₹925",
                 "size": "22.2 x 16.4 cm",
+                "brand_id":"1",
+                "brand":"devlopment",
                 "language": [
                     "English",
                     "Hindi"
@@ -135,8 +158,10 @@
                 "img": "https://i.ibb.co/WpkzrRM/12.jpg"
             },
             {
-                "Bookname": "the Power of your subconscious MIND",
-                "Price": 99,
+                "heading": "the Power of your subconscious MIND",
+                "cost": "₹99",
+                "brand":"devlopment",
+                "brand_id":"1",
                 "size": "22.2 x 16.4 cm",
                 "language": [
                     "English",
@@ -146,16 +171,20 @@
                 "img": "https://i.ibb.co/6t890CQ/13.jpg"
             },
             {
-                "Bookname": "Do Epic Shit ",
-                "Price": 296,
+                "heading": "Do Epic Shit ",
+                "brand":"devlopment",
+                "cost": "₹296",
+                "brand_id":"1",
                 "size": "22.2 x 16.4 cm",
                 "language": "English",
                 "Pages": 312,
                 "img": "https://i.ibb.co/dQxDPvy/14.jpg"
             },
             {
-                "Bookname": "train your  brain",
-                "Price": 49,
+                "heading": "train your  brain",
+                "brand_id":"1",
+                "brand":"devlopment",
+                "cost": "₹49",
                 "size": "22.2 x 16.4 cm",
                 "language": [
                     "English",
@@ -164,8 +193,7 @@
                 "Pages": 231,
                 "img": "https://i.ibb.co/0DHyzLZ/15.jpg"
             }
-        ]
-    },
+        ]},
     {
         "id": 3,
         "Category": "Books",
@@ -173,9 +201,11 @@
         "type_id": 4,
         "Product": [
             {
-                "Bookname": "THE INTELLIGENT INVESTOR",
-                "Price": 249,
+                "heading": "THE INTELLIGENT INVESTOR",
+                "cost": "₹249",
                 "size": "22.2 x 16.4 cm",
+                "brand":"Invesment",
+                "brand_id":"1",
                 "language": [
                     "English",
                     "Hindi"
@@ -184,9 +214,11 @@
                 "img": "https://i.ibb.co/tq112jg/16.jpg"
             },
             {
-                "Bookname": "THE Psychology of Money",
-                "Price": 270,
+                "heading": "THE Psychology of Money",
+                "cost": "₹270",
+                "brand_id":"1",
                 "size": "22.2 x 16.4 cm",
+                "brand":"Invesment",
                 "language": [
                     "English",
                     "Hindi"
@@ -195,8 +227,10 @@
                 "img": "https://i.ibb.co/2Sv9HGN/17.jpg"
             },
             {
-                "Bookname": "Richdad Poordad",
-                "Price": 325,
+                "heading": "Richdad Poordad",
+                "cost": "₹325",
+                "brand":"Invesment",
+                "brand_id":"1",
                 "size": "22.2 x 16.4 cm",
                 "language": [
                     "English",
@@ -205,6 +239,5 @@
                 "Pages": 336,
                 "img": "https://i.ibb.co/PgBz5Vn/18.jpg-"
             }
-        ]
-    }
+        ]}
 ]

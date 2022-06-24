@@ -13,7 +13,7 @@ const Products = (props) => {
                 <div className="row hulu">
                     <h2 className="proHead text-center">{item.Category} <i className="fa-solid fa-shirt"></i></h2>
                     <div className="col-lg-3 col-sm-6 p-3 colmm">
-                        <Link to={`/listing=${item.category_id}&${item.type_id[0]}`} key={item._id}>
+                        <Link to={`/listing/category_Id=${item.category_id}/${item.type_id[0]}`} key={item._id}>
                         <div className="gridboox">
                             <div className="h-75 dd1">
                                 <img className="w-100 h-100 p-2" src={item.img[0]} alt=""/>
@@ -25,7 +25,7 @@ const Products = (props) => {
                         </Link>
                     </div>
                     <div className="col-lg-3 col-sm-6 p-3 colmm">
-                    <Link to={`/listing=${item.category_id}&${item.type_id[1]}`} key={item._id}>
+                    <Link to={`/listing/category_Id=${item.category_id}/${item.type_id[1]}`} key={item._id}>
                         <div className="gridboox">
                             <div className="h-75 dd1">
                                 <img className="w-100 h-100 p-2 " src={item.img[1]} alt=""/>
@@ -37,7 +37,7 @@ const Products = (props) => {
                         </Link>
                     </div>
                     <div className="col-lg-3 col-sm-6 p-3 colmm">
-                    <Link to={`/listing=${item.category_id}&${item.type_id[2]}`} key={item._id}>
+                    <Link to={`/listing/category_Id=${item.category_id}/${item.type_id[2]}`} key={item._id}>
                         <div className="gridboox">
                             <div className="h-75 dd1">
                                 <img className="w-100 h-100 p-2" src={item.img[2]} alt=""/>
@@ -49,7 +49,7 @@ const Products = (props) => {
                         </Link>
                     </div>
                     <div className="col-lg-3 col-sm-6 p-3 colmm">
-                    <Link to={`/listing=${item.category_id}&${item.type_id[3]}`} key={item._id}>
+                    <Link to={`/listing/category_Id=${item.category_id}/${item.type_id[3]}`} key={item._id}>
                         <div className="gridboox">
                             <div class="h-75 dd1">
                                 <img className="w-100 h-100 p-2" src={item.img[3]} alt=""/>
@@ -59,12 +59,10 @@ const Products = (props) => {
                             </div>
                         </div>
                         </Link>
-
                     </div>
                 </div>
                 <br/><hr/>
                 </>
-                
             )
           })
             }   

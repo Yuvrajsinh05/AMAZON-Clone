@@ -1,8 +1,10 @@
 import React, { Component } from "react";
-import axios from'axios';
+import axios from 'axios';
+import {Link} from 'react-router-dom';
 import ListedData from "./listingDisplay"
 import Header from "../../header";
 import './style.css'
+import Footer from "../../footer";
 
 const url =  "http://localhost:9705/product/category_id="
 
@@ -18,19 +20,23 @@ class Listing extends Component{
         return(
             <>
              <Header/>
-             <ListedData listData={this.state.itemData}/>
+             <div>
+                <ListedData listData={this.state.itemData}/>
+                {/* <Footer/> */}
+             </div>
             </>
 
         )
     }
-   
     async componentDidMount(){
-        let restId = this.props.location.search.split('=')[1];
-        console.log("restId",restId)
-        // let response = await axios.get(`${url}/${restId}`)
-        // console.log(">>>response.data[0].restaurant_id",response.data[0].restaurant_id)
-        // let menuResponse = await axios.get(`${menuUrl}${response.data[0].restaurant_id}`)
-        // this.setState({details:response.data[0],menuList:menuResponse.data})
+        console.log(this.props.location.pathname)
+        let restId = this.props.location.pathname.split('=')[1];
+        const categoryId = restId.split('/')[0]
+        const typeID = restId.split('/')[1]
+        console.log(categoryId,typeID)
+        let response = await axios.get(`${url}${categoryId}?type_id=${typeID}`)
+        console.log("url",response)
+        this.setState({itemData:response})
     }
 }
-export default Listing
+export default Listing;
