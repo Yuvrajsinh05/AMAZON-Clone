@@ -32,8 +32,15 @@ li{
 .items{
     border: 2px solid red;
 }
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: black;
+}
 .cost{
     /* border: 2px solid red; */
+}
+.filter{
 }
 .h33{
     font-size: 17px;

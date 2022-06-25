@@ -9,6 +9,7 @@ const mongoUrl = process.env.mongoUrlLive;
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
+
 // middleware
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json())
@@ -53,6 +54,22 @@ app.get('/product/category_id=3/', (req, res) => {
         res.send(result)
     })
 })
+
+
+app.get('/detail/',(req,res)=>{
+   let query = {}
+   let typeId = Number(req.params.type_id);
+
+     query= {
+        "type_id":typeId
+    }
+   db.collection('fashion').find({query}).toArray((err, result) => {
+    if (err) throw err;
+    res.send(result)
+})
+})
+
+
 
 // Connection with db
 MongoClient.connect(mongoUrl, (err, client) => {
