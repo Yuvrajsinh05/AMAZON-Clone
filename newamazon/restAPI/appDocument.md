@@ -2,10 +2,11 @@
 
 # home-pages products
 >> http://localhost:9705/home
+>>https://shozon.herokuapp.com/home
 
 // Page-2 (Listing)
 
 # product wrt catogory
 >> http://localhost:9705/product/category_id=2?type_id=1
 
-
+>>https://shozon.herokuapp.com/product/category_id=2?type_id=1
